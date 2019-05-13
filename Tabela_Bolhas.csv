@@ -1,0 +1,615 @@
+CBO;Descricao;share;meses;N;Abono_sobre_total;Abono_sobre_1e2SM;Grupo;DesGrupo;Descricao2
+4110;Agentes, assistentes e auxiliares administrativos;0,401;10,10;5042993;0,0132;0,0569;4;Grupo CBO4;5.042.993 Agentes, assistentes e auxiliares administrativos
+5211;Operadores do comércio em lojas e mercados;0,571;9,08;4795251;0,0279;0,0589;5;Grupo CBO5;4.795.251 Operadores do comércio em lojas e mercados
+5143;Trabalhadores nos  serviços de manutenção de edificações;0,693;9,62;2312002;0,0418;0,0626;5;Grupo CBO5;2.312.002 Trabalhadores nos  serviços de manutenção de edificações
+7842;Alimentadores de linhas de produção;0,589;8,81;1290372;0,0287;0,0559;7;Grupo CBO7;1.290.372 Alimentadores de linhas de produção
+4211;Caixas e bilheteiros (exceto caixa de banco);0,633;9,42;1174042;0,0344;0,0576;4;Grupo CBO4;1.174.042 Caixas e bilheteiros (exceto caixa de banco)
+5174;Porteiros, vigias e afins;0,653;9,91;1151092;0,0294;0,0553;5;Grupo CBO5;1.151.092 Porteiros, vigias e afins
+7825;Motoristas de veículos de cargas em geral;0,330;9,13;1141772;0,0104;0,0498;7;Grupo CBO7;1.141.772 Motoristas de veículos de cargas em geral
+5134;Trabalhadores no atendimento em estabelecimentos de serviços de alimentação, bebidas e hotelaria;0,578;9,08;1084608;0,0348;0,0601;5;Grupo CBO5;1.084.608 Trabalhadores no atendimento em estabelecimentos de serviços de alimentação, bebidas e hotelaria
+5142;Trabalhadores nos serviços de coleta de resíduos, de limpeza e conservação de áreas públicas;0,679;10,36;937795;0,0369;0,0612;5;Grupo CBO5;937.795 Trabalhadores nos serviços de coleta de resíduos, de limpeza e conservação de áreas públicas
+7170;Ajudantes de obras civis;0,646;7,44;918258;0,0371;0,0608;7;Grupo CBO7;918.258 Ajudantes de obras civis
+4221;Recepcionistas;0,651;9,75;868837;0,0358;0,0594;4;Grupo CBO4;868.837 Recepcionistas
+3222;Técnicos e auxiliares de enfermagem;0,316;10,53;817828;0,0089;0,0520;3;Grupo CBO3;817.828 Técnicos e auxiliares de enfermagem
+4141;Almoxarifes e armazenistas;0,537;9,53;777532;0,0245;0,0559;4;Grupo CBO4;777.532 Almoxarifes e armazenistas
+5173;Vigilantes e guardas de segurança;0,271;10,11;776221;0,0076;0,0506;5;Grupo CBO5;776.221 Vigilantes e guardas de segurança
+3312;Professores de nível médio no ensino fundamental;0,147;10,34;764045;0,0036;0,0542;3;Grupo CBO3;764.045 Professores de nível médio no ensino fundamental
+1114;Dirigentes do serviço público;0,228;10,62;749785;0,0029;0,0583;1;Grupo CBO1;749.785 Dirigentes do serviço público
+5132;Cozinheiros;0,702;9,63;705982;0,0378;0,0593;5;Grupo CBO5;705.982 Cozinheiros
+4223;Operadores de telemarketing;0,485;9,30;705230;0,0323;0,0646;4;Grupo CBO4;705.230 Operadores de telemarketing
+7832;Trabalhadores de cargas e descargas de mercadorias;0,624;9,09;683907;0,0306;0,0579;7;Grupo CBO7;683.907 Trabalhadores de cargas e descargas de mercadorias
+2312;Professores de nível superior do ensino fundamental (primeira a quarta séries);0,178;10,38;665261;0,0024;0,0546;2;Grupo CBO2;665.261 Professores de nível superior do ensino fundamental (primeira a quarta séries)
+7823;Motoristas de veículos de pequeno e médio porte;0,515;9,57;608173;0,0183;0,0533;7;Grupo CBO7;608.173 Motoristas de veículos de pequeno e médio porte
+7152;Trabalhadores de estruturas de alvenaria;0,620;7,18;548383;0,0258;0,0506;7;Grupo CBO7;548.383 Trabalhadores de estruturas de alvenaria
+8485;Magarefes e afins;0,571;9,17;521394;0,0256;0,0535;8;Grupo CBO8;521.394 Magarefes e afins
+4101;Supervisores administrativos;0,252;10,21;491601;0,0056;0,0546;4;Grupo CBO4;491.601 Supervisores administrativos
+6210;Trabalhadores agropecuários em geral;0,612;9,22;483712;0,0342;0,0611;6;Grupo CBO6;483.712 Trabalhadores agropecuários em geral
+1421;Gerentes administrativos, financeiros, de riscos e afins;0,227;10,00;423881;0,0030;0,0533;1;Grupo CBO1;423.881 Gerentes administrativos, financeiros, de riscos e afins
+5135;Trabalhadores auxiliares nos serviços de alimentação;0,692;8,67;423202;0,0423;0,0609;5;Grupo CBO5;423.202 Trabalhadores auxiliares nos serviços de alimentação
+1423;Gerentes de comercialização, marketing e comunicação;0,199;9,80;420408;0,0023;0,0533;1;Grupo CBO1;420.408 Gerentes de comercialização, marketing e comunicação
+7824;Motoristas de ônibus urbanos, metropolitanos e rodoviários;0,160;9,16;408197;0,0043;0,0501;7;Grupo CBO7;408.197 Motoristas de ônibus urbanos, metropolitanos e rodoviários
+5141;Trabalhadores nos serviços de administração de edifícios;0,633;10,17;389794;0,0310;0,0608;5;Grupo CBO5;389.794 Trabalhadores nos serviços de administração de edifícios
+2321;Professores do ensino médio;0,128;9,76;383641;0,0017;0,0540;2;Grupo CBO2;383.641 Professores do ensino médio
+3541;Especialistas em promoção de produtos e vendas;0,361;9,00;374655;0,0093;0,0562;3;Grupo CBO3;374.655 Especialistas em promoção de produtos e vendas
+5151;Trabalhadores em serviços de promoção e apoio à saúde;0,709;11,39;374486;0,0313;0,0571;5;Grupo CBO5;374.486 Trabalhadores em serviços de promoção e apoio à saúde
+3311;Professores de nível médio na educação infantil;0,364;10,39;374394;0,0100;0,0591;3;Grupo CBO3;374.394 Professores de nível médio na educação infantil
+7632;Operadores de máquinas para costura de peças do vestuário;0,754;9,72;360797;0,0464;0,0620;7;Grupo CBO7;360.797 Operadores de máquinas para costura de peças do vestuário
+6220;Trabalhadores de apoio à agricultura;0,597;8,35;348772;0,0324;0,0588;6;Grupo CBO6;348.772 Trabalhadores de apoio à agricultura
+4132;Escriturários de serviços bancários;0,102;9,62;345543;0,0012;0,0591;4;Grupo CBO4;345.543 Escriturários de serviços bancários
+7841;Trabalhadores de embalagem e de etiquetagem;0,468;9,25;329657;0,0290;0,0590;7;Grupo CBO7;329.657 Trabalhadores de embalagem e de etiquetagem
+4131;Auxiliares de contabilidade;0,417;9,92;319144;0,0144;0,0536;4;Grupo CBO4;319.144 Auxiliares de contabilidade
+2124;Analistas de tecnologia da informação;0,089;9,22;303526;0,0011;0,0514;2;Grupo CBO2;303.526 Analistas de tecnologia da informação
+9144;Mecânicos de manutenção de veículos automotores;0,415;9,38;291330;0,0146;0,0559;9;Grupo CBO9;291.330 Mecânicos de manutenção de veículos automotores
+103;Praças das forças armadas;0,068;11,39;282750;0,0017;0,0471;0;Grupo CBO0;282.750 Praças das forças armadas
+6410;Trabalhadores da mecanização agrícola;0,359;9,22;269868;0,0119;0,0517;6;Grupo CBO6;269.868 Trabalhadores da mecanização agrícola
+8483;Padeiros, confeiteiros e afins;0,627;9,42;254449;0,0298;0,0561;8;Grupo CBO8;254.449 Padeiros, confeiteiros e afins
+2235;Enfermeiros e afins;0,030;9,50;250447;0,0004;0,0516;2;Grupo CBO2;250.447 Enfermeiros e afins
+9113;Mecânicos de manutenção de máquinas industriais;0,187;9,02;248091;0,0043;0,0526;9;Grupo CBO9;248.091 Mecânicos de manutenção de máquinas industriais
+4142;Apontadores e conferentes;0,469;9,93;241648;0,0175;0,0534;4;Grupo CBO4;241.648 Apontadores e conferentes
+2521;Administradores;0,077;9,83;239267;0,0009;0,0524;2;Grupo CBO2;239.267 Administradores
+6221;Trabalhadores agrícolas na cultura de gramíneas;0,545;7,69;234023;0,0307;0,0573;6;Grupo CBO6;234.023 Trabalhadores agrícolas na cultura de gramíneas
+9922;Trabalhadores operacionais de conservação de vias permanentes (exceto trilhos);0,663;9,72;231246;0,0354;0,0609;9;Grupo CBO9;231.246 Trabalhadores operacionais de conservação de vias permanentes (exceto trilhos)
+7212;Preparadores e operadores de máquinas-ferramenta convencionais;0,268;10,14;231239;0,0076;0,0525;7;Grupo CBO7;231.239 Preparadores e operadores de máquinas-ferramenta convencionais
+212;Cabos e soldados da polícia militar;0,006;6,70;231238;0,0001;0,0517;0;Grupo CBO0;231.238 Cabos e soldados da polícia militar
+8621;Operadores de máquinas a vapor e utilidades;0,420;9,83;229862;0,0135;0,0522;8;Grupo CBO8;229.862 Operadores de máquinas a vapor e utilidades
+1414;Gerentes de operações comerciais e de assistência técnica;0,344;9,88;227585;0,0084;0,0549;1;Grupo CBO1;227.585 Gerentes de operações comerciais e de assistência técnica
+7243;Trabalhadores de soldagem e corte de ligas metálicas;0,271;8,71;207453;0,0077;0,0510;7;Grupo CBO7;207.453 Trabalhadores de soldagem e corte de ligas metálicas
+3912;Técnicos de controle da produção;0,266;9,88;206707;0,0068;0,0525;3;Grupo CBO3;206.707 Técnicos de controle da produção
+4122;Contínuos;0,546;9,90;198035;0,0330;0,0634;4;Grupo CBO4;198.035 Contínuos
+2394;Programadores, avaliadores e orientadores de ensino;0,153;9,89;193508;0,0031;0,0549;2;Grupo CBO2;193.508 Programadores, avaliadores e orientadores de ensino
+5112;Fiscais e cobradores dos transportes coletivos;0,613;10,74;192845;0,0291;0,0558;5;Grupo CBO5;192.845 Fiscais e cobradores dos transportes coletivos
+3341;Inspetores de alunos e afins;0,540;10,89;190194;0,0235;0,0596;3;Grupo CBO3;190.194 Inspetores de alunos e afins
+3514;Serventuários da justiça e afins;0,114;9,98;179337;0,0010;0,0562;3;Grupo CBO3;179.337 Serventuários da justiça e afins
+7151;Trabalhadores na operação de máquinas de terraplenagem e fundações;0,268;8,91;174862;0,0077;0,0504;7;Grupo CBO7;174.862 Trabalhadores na operação de máquinas de terraplenagem e fundações
+7155;Trabalhadores de montagem de estruturas de madeira, metal e compósitos em obras civis;0,491;7,54;172096;0,0189;0,0504;7;Grupo CBO7;172.096 Trabalhadores de montagem de estruturas de madeira, metal e compósitos em obras civis
+2522;Contadores e afins;0,067;10,07;171512;0,0008;0,0513;2;Grupo CBO2;171.512 Contadores e afins
+2251;Médicos clínicos;0,007;9,48;166374;0,0000;0,0529;2;Grupo CBO2;166.374 Médicos clínicos
+5199;Outros trabalhadores dos serviços;0,641;9,45;165762;0,0329;0,0568;5;Grupo CBO5;165.762 Outros trabalhadores dos serviços
+2313;Professores de nível superior no ensino fundamental de quinta a oitava série;0,169;10,10;165198;0,0028;0,0541;2;Grupo CBO2;165.198 Professores de nível superior no ensino fundamental de quinta a oitava série
+2523;Secretárias(os) executivas(os) e afins;0,395;10,15;164757;0,0097;0,0603;2;Grupo CBO2;164.757 Secretárias(os) executivas(os) e afins
+3911;Técnicos de planejamento e controle de produção;0,278;9,32;164319;0,0067;0,0531;3;Grupo CBO3;164.319 Técnicos de planejamento e controle de produção
+7822;Operadores de equipamentos de movimentação de cargas;0,373;9,77;163951;0,0119;0,0496;7;Grupo CBO7;163.951 Operadores de equipamentos de movimentação de cargas
+5191;Motociclistas e ciclistas de entregas rápidas;0,695;9,27;160902;0,0340;0,0540;5;Grupo CBO5;160.902 Motociclistas e ciclistas de entregas rápidas
+2345;Professores na área de formação pedagógica do ensino superior;0,068;9,78;159306;0,0007;0,0537;2;Grupo CBO2;159.306 Professores na área de formação pedagógica do ensino superior
+5201;Supervisores de vendas e de prestação de serviços;0,216;9,43;158872;0,0038;0,0528;5;Grupo CBO5;158.872 Supervisores de vendas e de prestação de serviços
+6231;Trabalhadores na pecuária de animais de grande porte;0,596;9,39;158262;0,0337;0,0608;6;Grupo CBO6;158.262 Trabalhadores na pecuária de animais de grande porte
+6225;Trabalhadores agrícolas na fruticultura;0,637;7,26;157656;0,0398;0,0614;6;Grupo CBO6;157.656 Trabalhadores agrícolas na fruticultura
+7244;Trabalhadores de caldeiraria e serralheria;0,379;8,72;155391;0,0124;0,0542;7;Grupo CBO7;155.391 Trabalhadores de caldeiraria e serralheria
+3132;Técnicos em eletrônica;0,341;9,64;150044;0,0087;0,0549;3;Grupo CBO3;150.044 Técnicos em eletrônica
+7156;Trabalhadores de instalações elétricas;0,383;8,35;147339;0,0121;0,0520;7;Grupo CBO7;147.339 Trabalhadores de instalações elétricas
+7311;Montadores de equipamentos eletroeletrônicos;0,499;9,55;139225;0,0206;0,0536;7;Grupo CBO7;139.225 Montadores de equipamentos eletroeletrônicos
+3331;Instrutores e professores de cursos livres;0,361;9,75;138599;0,0151;0,0564;3;Grupo CBO3;138.599 Instrutores e professores de cursos livres
+3522;Agentes da saúde e do meio ambiente;0,478;11,29;134439;0,0117;0,0560;3;Grupo CBO3;134.439 Agentes da saúde e do meio ambiente
+9511;Eletricistas de manutenção eletroeletrônica;0,178;8,61;134063;0,0035;0,0503;9;Grupo CBO9;134.063 Eletricistas de manutenção eletroeletrônica
+2311;Professores de nível superior na educação infantil;0,224;10,39;133774;0,0039;0,0546;2;Grupo CBO2;133.774 Professores de nível superior na educação infantil
+7631;Trabalhadores da preparação da confecção de roupas;0,615;9,23;132762;0,0376;0,0622;7;Grupo CBO7;132.762 Trabalhadores da preparação da confecção de roupas
+7321;Instaladores e reparadores de linhas e cabos elétricos, telefônicos e de comunicação de dados;0,306;8,99;132033;0,0074;0,0502;7;Grupo CBO7;132.033 Instaladores e reparadores de linhas e cabos elétricos, telefônicos e de comunicação de dados
+7102;Supervisores da construção civil;0,159;8,55;123544;0,0032;0,0505;7;Grupo CBO7;123.544 Supervisores da construção civil
+5172;Policiais, guardas-civis municipais e agentes de trânsito;0,167;10,83;121813;0,0025;0,0550;5;Grupo CBO5;121.813 Policiais, guardas-civis municipais e agentes de trânsito
+5133;Camareiros, roupeiros e afins;0,720;9,18;121577;0,0426;0,0595;5;Grupo CBO5;121.577 Camareiros, roupeiros e afins
+4213;Cobradores e afins;0,532;9,20;120499;0,0269;0,0607;4;Grupo CBO4;120.499 Cobradores e afins
+2234;Farmacêuticos;0,027;9,21;120312;0,0004;0,0522;2;Grupo CBO2;120.312 Farmacêuticos
+7640;Trabalhadores polivalentes da confecção de calçados;0,651;10,16;110796;0,0457;0,0657;7;Grupo CBO7;110.796 Trabalhadores polivalentes da confecção de calçados
+7166;Pintores de obras e revestidores de interiores (revestimentos flexíveis);0,606;7,25;108094;0,0251;0,0510;7;Grupo CBO7;108.094 Pintores de obras e revestidores de interiores (revestimentos flexíveis)
+5152;Auxiliares de laboratório da saúde;0,555;10,09;107074;0,0256;0,0561;5;Grupo CBO5;107.074 Auxiliares de laboratório da saúde
+7241;Encanadores e instaladores de tubulações;0,385;8,56;105558;0,0103;0,0515;7;Grupo CBO7;105.558 Encanadores e instaladores de tubulações
+3131;Técnicos em eletricidade e eletrotécnica;0,148;9,33;105437;0,0024;0,0533;3;Grupo CBO3;105.437 Técnicos em eletricidade e eletrotécnica
+8117;Operadores de instalações e máquinas de produtos plásticos, de borracha e moldadores de parafinas;0,484;9,59;104058;0,0164;0,0528;8;Grupo CBO8;104.058 Operadores de instalações e máquinas de produtos plásticos, de borracha e moldadores de parafinas
+5163;Tintureiros, lavadeiros e afins, a máquina;0,717;9,66;103301;0,0412;0,0594;5;Grupo CBO5;103.301 Tintureiros, lavadeiros e afins, a máquina
+3224;Técnicos de odontologia;0,669;10,42;102103;0,0313;0,0573;3;Grupo CBO3;102.103 Técnicos de odontologia
+2410;Advogados;0,072;8,93;101825;0,0007;0,0526;2;Grupo CBO2;101.825 Advogados
+7711;Marceneiros e afins;0,540;9,35;100316;0,0231;0,0548;7;Grupo CBO7;100.316 Marceneiros e afins
+7242;Trabalhadores de traçagem e montagem de estruturas metálicas e de compósitos;0,460;7,91;99707;0,0171;0,0537;7;Grupo CBO7;99.707 Trabalhadores de traçagem e montagem de estruturas metálicas e de compósitos
+8414;Trabalhadores na fabricação e conservação de alimentos;0,636;9,16;99039;0,0322;0,0579;8;Grupo CBO8;99.039 Trabalhadores na fabricação e conservação de alimentos
+3172;Técnicos em operação e monitoração de computadores;0,380;9,80;96266;0,0116;0,0539;3;Grupo CBO3;96.266 Técnicos em operação e monitoração de computadores
+3516;Técnicos em segurança do trabalho;0,132;9,02;93066;0,0027;0,0508;3;Grupo CBO3;93.066 Técnicos em segurança do trabalho
+4222;Operadores de telefonia;0,637;10,15;92982;0,0306;0,0591;4;Grupo CBO4;92.982 Operadores de telefonia
+211;Subtenentes e sargentos da policia militar;0,002;11,45;92558;0,0000;0,0505;0;Grupo CBO0;92.558 Subtenentes e sargentos da policia militar
+7233;Trabalhadores da pintura de equipamentos, veículos, estruturas metálicas e de compósitos;0,398;8,57;92415;0,0122;0,0522;7;Grupo CBO7;92.415 Trabalhadores da pintura de equipamentos, veículos, estruturas metálicas e de compósitos
+4102;Supervisores de serviços financeiros, de câmbio e de controle;0,243;9,97;91921;0,0053;0,0542;4;Grupo CBO4;91.921 Supervisores de serviços financeiros, de câmbio e de controle
+5162;Cuidadores de crianças, jovens, adultos e idosos;0,658;9,61;88140;0,0356;0,0585;5;Grupo CBO5;88.140 Cuidadores de crianças, jovens, adultos e idosos
+7741;Montadores de móveis e artefatos de madeira;0,607;9,30;87762;0,0290;0,0583;7;Grupo CBO7;87.762 Montadores de móveis e artefatos de madeira
+4201;Supervisores de atendimento ao público e de pesquisa;0,321;10,06;87429;0,0092;0,0527;4;Grupo CBO4;87.429 Supervisores de atendimento ao público e de pesquisa
+4152;Trabalhadores nos serviços de classificação e entregas de correspondências, encomendas e publicações;0,112;7,41;87147;0,0021;0,0558;4;Grupo CBO4;87.147 Trabalhadores nos serviços de classificação e entregas de correspondências, encomendas e publicações
+2532;Profissionais de comercializacão e consultoria de serviços bancários;0,078;8,08;86198;0,0011;0,0574;2;Grupo CBO2;86.198 Profissionais de comercializacão e consultoria de serviços bancários
+3171;Técnicos de desenvolvimento de sistemas e aplicações;0,121;9,33;85827;0,0022;0,0522;3;Grupo CBO3;85.827 Técnicos de desenvolvimento de sistemas e aplicações
+2524;Profissionais de recursos humanos;0,107;9,40;84931;0,0021;0,0503;2;Grupo CBO2;84.931 Profissionais de recursos humanos
+3542;Compradores;0,133;9,81;82026;0,0024;0,0517;3;Grupo CBO3;82.026 Compradores
+8131;Operadores de processos das indústrias de transformação de produtos químicos, petroquímicos e afins;0,270;9,38;79950;0,0056;0,0506;8;Grupo CBO8;79.950 Operadores de processos das indústrias de transformação de produtos químicos, petroquímicos e afins
+6233;Trabalhadores na avicultura e cunicultura;0,644;9,41;77049;0,0363;0,0591;6;Grupo CBO6;77.049 Trabalhadores na avicultura e cunicultura
+3515;Técnicos em secretariado, taquígrafos e estenotipistas;0,463;10,38;76322;0,0155;0,0594;3;Grupo CBO3;76.322 Técnicos em secretariado, taquígrafos e estenotipistas
+1415;Gerentes de operações de serviços em empresa de turismo, de alojamento e alimentação;0,333;9,81;76053;0,0091;0,0521;1;Grupo CBO1;76.053 Gerentes de operações de serviços em empresa de turismo, de alojamento e alimentação
+5153;Trabalhadores de atenção, defesa e proteção a pessoas em situação de risco e adolescentes em conflito com a lei;0,423;9,71;74851;0,0128;0,0569;5;Grupo CBO5;74.851 Trabalhadores de atenção, defesa e proteção a pessoas em situação de risco e adolescentes em conflito com a lei
+7641;Trabalhadores da preparação da confecção de calçados;0,700;9,72;74630;0,0423;0,0606;7;Grupo CBO7;74.630 Trabalhadores da preparação da confecção de calçados
+1412;Gerentes de produção e operações em empresa da indústria extrativa, de transformação e de serviços de utilidade pública;0,163;9,98;73931;0,0016;0,0525;1;Grupo CBO1;73.931 Gerentes de produção e operações em empresa da indústria extrativa, de transformação e de serviços de utilidade pública
+5241;Vendedores em domicílio;0,506;7,49;73083;0,0136;0,0589;5;Grupo CBO5;73.083 Vendedores em domicílio
+6321;Extrativistas e reflorestadores de espécies produtoras de madeira;0,671;8,65;72315;0,0395;0,0597;6;Grupo CBO6;72.315 Extrativistas e reflorestadores de espécies produtoras de madeira
+2525;Profissionais de administração ecônomico-financeira;0,110;9,43;72269;0,0015;0,0537;2;Grupo CBO2;72.269 Profissionais de administração ecônomico-financeira
+6226;Trabalhadores agrícolas nas culturas de plantas estimulantes;0,561;5,99;72081;0,0409;0,0654;6;Grupo CBO6;72.081 Trabalhadores agrícolas nas culturas de plantas estimulantes
+2142;Engenheiros civis e afins;0,021;8,74;69513;0,0001;0,0526;2;Grupo CBO2;69.513 Engenheiros civis e afins
+2516;Assistentes sociais e economistas domésticos;0,115;9,88;69369;0,0019;0,0524;2;Grupo CBO2;69.369 Assistentes sociais e economistas domésticos
+3141;Técnicos mecânicos na fabricação e montagem de máquinas, sistemas e instrumentos;0,218;9,46;68259;0,0037;0,0556;3;Grupo CBO3;68.259 Técnicos mecânicos na fabricação e montagem de máquinas, sistemas e instrumentos
+3513;Técnicos em administração;0,244;10,14;68252;0,0044;0,0551;3;Grupo CBO3;68.252 Técnicos em administração
+3421;Especialistas em logística de transportes;0,259;9,45;67523;0,0068;0,0521;3;Grupo CBO3;67.523 Especialistas em logística de transportes
+5161;Trabalhadores nos serviços de embelezamento e higiene;0,661;9,24;66892;0,0398;0,0641;5;Grupo CBO5;66.892 Trabalhadores nos serviços de embelezamento e higiene
+7153;Montadores de estruturas de concreto armado;0,555;7,52;65749;0,0230;0,0504;7;Grupo CBO7;65.749 Montadores de estruturas de concreto armado
+1231;Diretores administrativos e financeiros;0,179;10,21;65128;0,0013;0,0564;1;Grupo CBO1;65.128 Diretores administrativos e financeiros
+3714;Recreadores;0,542;9,74;64490;0,0296;0,0602;3;Grupo CBO3;64.490 Recreadores
+7630;Profissionais polivalentes da confecção de roupas;0,725;9,67;61000;0,0417;0,0624;7;Grupo CBO7;61.000 Profissionais polivalentes da confecção de roupas
+7662;Trabalhadores da impressão gráfica;0,404;9,81;60736;0,0126;0,0541;7;Grupo CBO7;60.736 Trabalhadores da impressão gráfica
+7633;Operadores de máquinas para bordado e acabamento de roupas;0,722;9,69;60651;0,0444;0,0621;7;Grupo CBO7;60.651 Operadores de máquinas para bordado e acabamento de roupas
+3133;Técnicos em telecomunicações;0,207;9,21;59848;0,0049;0,0538;3;Grupo CBO3;59.848 Técnicos em telecomunicações
+2515;Psicólogos e psicanalistas;0,122;9,52;59071;0,0022;0,0518;2;Grupo CBO2;59.071 Psicólogos e psicanalistas
+2232;Cirurgiões-dentistas;0,026;10,13;58354;0,0003;0,0524;2;Grupo CBO2;58.354 Cirurgiões-dentistas
+9921;Trabalhadores elementares de serviços de manutenção veicular;0,532;9,37;57921;0,0224;0,0563;9;Grupo CBO9;57.921 Trabalhadores elementares de serviços de manutenção veicular
+2332;Instrutores de ensino profissional;0,215;9,73;56074;0,0044;0,0564;2;Grupo CBO2;56.074 Instrutores de ensino profissional
+8214;Operadores de equipamentos de acabamento de chapas e metais;0,384;9,14;55292;0,0113;0,0535;8;Grupo CBO8;55.292 Operadores de equipamentos de acabamento de chapas e metais
+2241;Profissionais da educação física;0,373;9,47;52975;0,0094;0,0567;2;Grupo CBO2;52.975 Profissionais da educação física
+2236;Fisioterapeutas;0,151;9,33;52947;0,0025;0,0531;2;Grupo CBO2;52.947 Fisioterapeutas
+4121;Operadores de equipamentos de entrada e transmissão de dados;0,467;10,37;52667;0,0149;0,0595;4;Grupo CBO4;52.667 Operadores de equipamentos de entrada e transmissão de dados
+1422;Gerentes de recursos humanos e de relações do trabalho;0,132;10,14;51690;0,0015;0,0523;1;Grupo CBO1;51.690 Gerentes de recursos humanos e de relações do trabalho
+7642;Operadores de máquinas de costurar e montar calçados;0,788;9,93;51313;0,0477;0,0610;7;Grupo CBO7;51.313 Operadores de máquinas de costurar e montar calçados
+9913;Reparadores de carrocerias de veículos;0,413;9,30;50521;0,0142;0,0548;9;Grupo CBO9;50.521 Reparadores de carrocerias de veículos
+5136;Churrasqueiros, pizzaiolos e sushimen;0,636;8,60;50131;0,0306;0,0571;5;Grupo CBO5;50.131 Churrasqueiros, pizzaiolos e sushimen
+8418;Operadores de equipamentos na fabricação de pães, massas alimentícias, doces, chocolates e achocolatados;0,505;9,97;49802;0,0193;0,0547;8;Grupo CBO8;49.802 Operadores de equipamentos na fabricação de pães, massas alimentícias, doces, chocolates e achocolatados
+3518;Agentes de investigação e identificação;0,005;11,09;49185;0,0000;0,0470;3;Grupo CBO3;49.185 Agentes de investigação e identificação
+3517;Técnicos de seguros e afins;0,290;9,20;49165;0,0073;0,0543;3;Grupo CBO3;49.165 Técnicos de seguros e afins
+6230;Tratadores polivalentes de animais;0,580;9,29;48782;0,0284;0,0574;6;Grupo CBO6;48.782 Tratadores polivalentes de animais
+3241;Tecnólogos e técnicos em métodos de diagnósticos e terapêutica;0,069;10,37;48751;0,0012;0,0528;3;Grupo CBO3;48.751 Tecnólogos e técnicos em métodos de diagnósticos e terapêutica
+8281;Trabalhadores da fabricação de cerâmica estrutural para construção;0,671;9,51;48735;0,0420;0,0626;8;Grupo CBO8;48.735 Trabalhadores da fabricação de cerâmica estrutural para construção
+2346;Professores nas áreas de língua e literatura do ensino superior;0,140;10,19;48624;0,0028;0,0553;2;Grupo CBO2;48.624 Professores nas áreas de língua e literatura do ensino superior
+7663;Trabalhadores do acabamento gráfico;0,475;9,76;48367;0,0170;0,0529;7;Grupo CBO7;48.367 Trabalhadores do acabamento gráfico
+7313;Instaladores-reparadores de  linhas e equipamentos de telecomunicações;0,447;8,60;48233;0,0154;0,0526;7;Grupo CBO7;48.233 Instaladores-reparadores de  linhas e equipamentos de telecomunicações
+1416;Gerentes de operações de serviços em empresa de transporte, de comunicação e de logística (armazenagem e distribuição);0,153;9,43;47820;0,0020;0,0523;1;Grupo CBO1;47.820 Gerentes de operações de serviços em empresa de transporte, de comunicação e de logística (armazenagem e distribuição)
+7214;Operadores de máquinas de usinagem cnc;0,151;9,51;47750;0,0034;0,0494;7;Grupo CBO7;47.750 Operadores de máquinas de usinagem cnc
+3423;Técnicos em transportes rodoviários;0,225;10,04;47649;0,0057;0,0517;3;Grupo CBO3;47.649 Técnicos em transportes rodoviários
+2611;Profissionais do jornalismo;0,172;9,56;46343;0,0026;0,0564;2;Grupo CBO2;46.343 Profissionais do jornalismo
+7245;Operadores de máquinas de conformação de metais;0,393;9,96;46002;0,0132;0,0509;7;Grupo CBO7;46.002 Operadores de máquinas de conformação de metais
+7250;Ajustadores mecânicos polivalentes;0,300;9,22;45408;0,0102;0,0548;7;Grupo CBO7;45.408 Ajustadores mecânicos polivalentes
+102;Oficiais das forças armadas;0,003;10,19;45032;0,0000;0,0571;0;Grupo CBO0;45.032 Oficiais das forças armadas
+7252;Montadores de máquinas industriais;0,286;8,36;45031;0,0079;0,0516;7;Grupo CBO7;45.031 Montadores de máquinas industriais
+3242;Técnicos de laboratórios de saúde e bancos de sangue;0,323;10,42;44865;0,0092;0,0524;3;Grupo CBO3;44.865 Técnicos de laboratórios de saúde e bancos de sangue
+2237;Nutricionistas;0,120;9,32;44803;0,0023;0,0525;2;Grupo CBO2;44.803 Nutricionistas
+3121;Técnicos em construção civil (edificações);0,179;8,69;44613;0,0035;0,0518;3;Grupo CBO3;44.613 Técnicos em construção civil (edificações)
+7821;Operadores de máquinas e equipamentos de elevação;0,274;9,13;44403;0,0063;0,0505;7;Grupo CBO7;44.403 Operadores de máquinas e equipamentos de elevação
+7255;Montadores de veículos automotores (linha de montagem);0,161;9,10;43392;0,0030;0,0506;7;Grupo CBO7;43.392 Montadores de veículos automotores (linha de montagem)
+4241;Entrevistadores e recenseadores;0,458;7,23;43345;0,0242;0,0557;4;Grupo CBO4;43.345 Entrevistadores e recenseadores
+2512;Economistas;0,042;9,59;43276;0,0005;0,0498;2;Grupo CBO2;43.276 Economistas
+5101;Supervisores dos serviços de transporte, turismo, hotelaria e administração de edifícios;0,324;9,97;42842;0,0092;0,0538;5;Grupo CBO5;42.842 Supervisores dos serviços de transporte, turismo, hotelaria e administração de edifícios
+6201;Supervisores na exploração agropecuária;0,256;9,95;42366;0,0066;0,0527;6;Grupo CBO6;42.366 Supervisores na exploração agropecuária
+2344;Professores de ciências biológicas e da saúde do ensino superior;0,095;9,55;42283;0,0008;0,0562;2;Grupo CBO2;42.283 Professores de ciências biológicas e da saúde do ensino superior
+1313;Diretores e gerentes de instituição de serviços educacionais;0,152;10,47;42145;0,0017;0,0559;1;Grupo CBO1;42.145 Diretores e gerentes de instituição de serviços educacionais
+1425;Gerentes de tecnologia da informação;0,044;9,68;42036;0,0003;0,0523;1;Grupo CBO1;42.036 Gerentes de tecnologia da informação
+7523;Ceramistas (preparação e fabricação);0,514;9,70;41111;0,0216;0,0580;7;Grupo CBO7;41.111 Ceramistas (preparação e fabricação)
+2544;Fiscais de tributos estaduais e municipais;0,128;11,18;40348;0,0008;0,0562;2;Grupo CBO2;40.348 Fiscais de tributos estaduais e municipais
+9131;Mecânicos de manutenção de máquinas pesadas e equipamentos agrícolas;0,164;8,81;39824;0,0033;0,0520;9;Grupo CBO9;39.824 Mecânicos de manutenção de máquinas pesadas e equipamentos agrícolas
+7731;Operadores de máquinas de desdobramento da madeira;0,675;9,42;39677;0,0340;0,0556;7;Grupo CBO7;39.677 Operadores de máquinas de desdobramento da madeira
+2149;Engenheiros de produção, qualidade, segurança e afins;0,016;9,13;39391;0,0001;0,0518;2;Grupo CBO2;39.391 Engenheiros de produção, qualidade, segurança e afins
+3211;Técnicos agrícolas;0,142;9,47;38577;0,0028;0,0532;3;Grupo CBO3;38.577 Técnicos agrícolas
+2531;Profissionais de publicidade;0,152;8,82;38575;0,0023;0,0538;2;Grupo CBO2;38.575 Profissionais de publicidade
+7112;Trabalhadores de extração de minerais sólidos (operadores de máquinas);0,301;8,94;38186;0,0087;0,0506;7;Grupo CBO7;38.186 Trabalhadores de extração de minerais sólidos (operadores de máquinas)
+9531;Eletricistas eletrônicos de manutenção veicular (aérea, terrestre e naval);0,337;9,58;37987;0,0102;0,0550;9;Grupo CBO9;37.987 Eletricistas eletrônicos de manutenção veicular (aérea, terrestre e naval)
+3011;Técnicos de laboratório industrial;0,216;9,76;37802;0,0046;0,0520;3;Grupo CBO3;37.802 Técnicos de laboratório industrial
+7251;Montadores de máquinas, aparelhos e acessórios em linhas de montagem;0,428;9,40;36722;0,0144;0,0529;7;Grupo CBO7;36.722 Montadores de máquinas, aparelhos e acessórios em linhas de montagem
+2624;Artistas visuais,desenhistas industriais e conservadores-restauradores de bens culturais;0,285;9,01;35721;0,0070;0,0548;2;Grupo CBO2;35.721 Artistas visuais,desenhistas industriais e conservadores-restauradores de bens culturais
+9112;Mecânicos de manutenção e instalação de aparelhos de  climatização e refrigeração;0,511;8,96;35506;0,0205;0,0559;9;Grupo CBO9;35.506 Mecânicos de manutenção e instalação de aparelhos de  climatização e refrigeração
+3511;Técnicos em contabilidade;0,159;10,26;35438;0,0027;0,0536;3;Grupo CBO3;35.438 Técnicos em contabilidade
+7613;Operadores de tear e máquinas similares;0,487;10,11;34300;0,0203;0,0544;7;Grupo CBO7;34.300 Operadores de tear e máquinas similares
+5171;Bombeiros e salva-vidas;0,268;8,68;33954;0,0070;0,0519;5;Grupo CBO5;33.954 Bombeiros e salva-vidas
+7610;Trabalhadores polivalentes das indústrias têxteis;0,593;10,14;33845;0,0319;0,0594;7;Grupo CBO7;33.845 Trabalhadores polivalentes das indústrias têxteis
+7163;Vidraceiros (revestimentos rígidos);0,629;9,30;33252;0,0309;0,0576;7;Grupo CBO7;33.252 Vidraceiros (revestimentos rígidos)
+3117;Coloristas;0,520;9,74;32930;0,0254;0,0647;3;Grupo CBO3;32.930 Coloristas
+3321;Professores leigos no ensino fundamental;0,319;9,85;32923;0,0105;0,0596;3;Grupo CBO3;32.923 Professores leigos no ensino fundamental
+9101;Supervisores em serviços de reparação e manutenção de máquinas e equipamentos industriais, comerciais e residenciais;0,135;9,60;32867;0,0021;0,0521;9;Grupo CBO9;32.867 Supervisores em serviços de reparação e manutenção de máquinas e equipamentos industriais, comerciais e residenciais
+1417;Gerentes de operações de serviços em instituição de intermediação financeira;0,042;10,14;32763;0,0003;0,0542;1;Grupo CBO1;32.763 Gerentes de operações de serviços em instituição de intermediação financeira
+2143;Engenheiros eletricistas, eletrônicos e afins;0,031;9,31;32497;0,0002;0,0550;2;Grupo CBO2;32.497 Engenheiros eletricistas, eletrônicos e afins
+7164;Gesseiros;0,717;7,39;32339;0,0359;0,0536;7;Grupo CBO7;32.339 Gesseiros
+9191;Lubrificadores;0,386;9,58;32284;0,0121;0,0516;9;Grupo CBO9;32.284 Lubrificadores
+5193;Trabalhadores de serviços veterinários, de higiene e estética de animais domésticos;0,621;8,94;32198;0,0330;0,0587;5;Grupo CBO5;32.198 Trabalhadores de serviços veterinários, de higiene e estética de animais domésticos
+3111;Técnicos químicos;0,126;9,91;32156;0,0023;0,0515;3;Grupo CBO3;32.156 Técnicos químicos
+9513;Instaladores e mantenedores de sistemas eletroeletrônicos de segurança;0,562;8,75;31984;0,0227;0,0544;9;Grupo CBO9;31.984 Instaladores e mantenedores de sistemas eletroeletrônicos de segurança
+7733;Operadores de usinagem convencional de madeira;0,580;9,88;31921;0,0249;0,0536;7;Grupo CBO7;31.921 Operadores de usinagem convencional de madeira
+7165;Aplicadores de revestimentos cerâmicos, pastilhas, pedras e madeiras;0,567;8,21;31877;0,0232;0,0521;7;Grupo CBO7;31.877 Aplicadores de revestimentos cerâmicos, pastilhas, pedras e madeiras
+3144;Técnicos mecânicos na manutenção de máquinas, sistemas e instrumentos;0,183;9,60;31482;0,0035;0,0535;3;Grupo CBO3;31.482 Técnicos mecânicos na manutenção de máquinas, sistemas e instrumentos
+2612;Profissionais da informação;0,123;9,46;31321;0,0019;0,0532;2;Grupo CBO2;31.321 Profissionais da informação
+8233;Operadores de instalações e equipamentos de fabricação de materiais de construção;0,655;9,20;30984;0,0328;0,0572;8;Grupo CBO8;30.984 Operadores de instalações e equipamentos de fabricação de materiais de construção
+1424;Gerentes de suprimentos e afins;0,155;10,10;30962;0,0017;0,0529;1;Grupo CBO1;30.962 Gerentes de suprimentos e afins
+7222;Trabalhadores de fundição de metais puros e de ligas metálicas;0,399;9,16;30669;0,0135;0,0520;7;Grupo CBO7;30.669 Trabalhadores de fundição de metais puros e de ligas metálicas
+8415;Trabalhadores na pasteurização do leite e na fabricação de laticínios  e afins;0,562;9,59;30536;0,0254;0,0547;8;Grupo CBO8;30.536 Trabalhadores na pasteurização do leite e na fabricação de laticínios  e afins
+7211;Ferramenteiros e afins;0,154;9,32;30064;0,0026;0,0518;7;Grupo CBO7;30.064 Ferramenteiros e afins
+7122;Trabalhadores de beneficiamento de pedras ornamentais;0,529;9,50;29975;0,0224;0,0540;7;Grupo CBO7;29.975 Trabalhadores de beneficiamento de pedras ornamentais
+2331;Professores do ensino profissional;0,093;9,74;29912;0,0010;0,0559;2;Grupo CBO2;29.912 Professores do ensino profissional
+7661;Trabalhadores da pré-impressão gráfica;0,409;9,40;29891;0,0125;0,0549;7;Grupo CBO7;29.891 Trabalhadores da pré-impressão gráfica
+2347;Professores de ciências humanas do ensino superior;0,047;10,14;29354;0,0004;0,0556;2;Grupo CBO2;29.354 Professores de ciências humanas do ensino superior
+7618;Inspetores e revisores de produção têxtil;0,671;9,69;29178;0,0374;0,0592;7;Grupo CBO7;29.178 Inspetores e revisores de produção têxtil
+8181;Laboratoristas industriais auxiliares;0,417;9,49;28792;0,0141;0,0532;8;Grupo CBO8;28.792 Laboratoristas industriais auxiliares
+3548;Técnicos em serviços de turismo e organização de eventos;0,332;9,09;28722;0,0098;0,0547;3;Grupo CBO3;28.722 Técnicos em serviços de turismo e organização de eventos
+3425;Técnicos em transportes aéreos;0,284;9,97;28223;0,0059;0,0499;3;Grupo CBO3;28.223 Técnicos em transportes aéreos
+2144;Engenheiros mecânicos e afins;0,011;9,15;28180;0,0001;0,0544;2;Grupo CBO2;28.180 Engenheiros mecânicos e afins
+4212;Coletadores de apostas e de jogos;0,750;9,55;28142;0,0469;0,0635;4;Grupo CBO4;28.142 Coletadores de apostas e de jogos
+7827;Trabalhadores aquaviários;0,150;9,38;27768;0,0025;0,0549;7;Grupo CBO7;27.768 Trabalhadores aquaviários
+4151;Auxiliares de serviços de documentação, informação e pesquisa;0,535;10,01;27701;0,0245;0,0607;4;Grupo CBO4;27.701 Auxiliares de serviços de documentação, informação e pesquisa
+8401;Supervisores da fabricação de alimentos, bebidas e fumo;0,186;9,75;27438;0,0032;0,0534;8;Grupo CBO8;27.438 Supervisores da fabricação de alimentos, bebidas e fumo
+9541;Instaladores e mantenedores eletromecânicos de elevadores, escadas e portas automáticas;0,221;9,32;27128;0,0052;0,0527;9;Grupo CBO9;27.128 Instaladores e mantenedores eletromecânicos de elevadores, escadas e portas automáticas
+7643;Trabalhadores de acabamento de calçados;0,740;9,87;26574;0,0429;0,0604;7;Grupo CBO7;26.574 Trabalhadores de acabamento de calçados
+7614;Trabalhadores de acabamento, tingimento e estamparia das indústrias têxteis;0,546;9,55;26506;0,0235;0,0561;7;Grupo CBO7;26.506 Trabalhadores de acabamento, tingimento e estamparia das indústrias têxteis
+1427;Gerentes de manutenção e afins;0,087;9,71;26103;0,0008;0,0534;1;Grupo CBO1;26.103 Gerentes de manutenção e afins
+5231;Instaladores de produtos e acessórios;0,620;9,38;25901;0,0297;0,0579;5;Grupo CBO5;25.901 Instaladores de produtos e acessórios
+9192;Trabalhadores de manutenção de roçadeiras, motoserras e similares;0,382;9,20;25816;0,0124;0,0549;9;Grupo CBO9;25.816 Trabalhadores de manutenção de roçadeiras, motoserras e similares
+1210;Diretores gerais;0,183;10,35;25085;0,0008;0,0548;1;Grupo CBO1;25.085 Diretores gerais
+7154;Trabalhadores na operação de máquinas de concreto usinado;0,431;8,75;24451;0,0149;0,0540;7;Grupo CBO7;24.451 Trabalhadores na operação de máquinas de concreto usinado
+3532;Técnicos em operações e serviços bancários;0,095;10,57;24305;0,0017;0,0517;3;Grupo CBO3;24.305 Técnicos em operações e serviços bancários
+8622;Operadores de instalações de captação, tratamento e distribuição de água;0,208;10,49;23981;0,0044;0,0532;8;Grupo CBO8;23.981 Operadores de instalações de captação, tratamento e distribuição de água
+1112;Dirigentes gerais da administração pública;0,264;10,60;23902;0,0033;0,0576;1;Grupo CBO1;23.902 Dirigentes gerais da administração pública
+2348;Professores de ciências econômicas, administrativas e contábeis do ensino superior;0,081;9,92;23772;0,0009;0,0550;2;Grupo CBO2;23.772 Professores de ciências econômicas, administrativas e contábeis do ensino superior
+2221;Engenheiros agrossilvipecuários;0,028;9,71;23686;0,0002;0,0522;2;Grupo CBO2;23.686 Engenheiros agrossilvipecuários
+2252;Médicos em especialidades cirúrgicas;0,007;9,06;23467;0,0001;0,0526;2;Grupo CBO2;23.467 Médicos em especialidades cirúrgicas
+8118;Operadores de máquinas e instalações de produtos farmacêuticos, cosméticos e afins;0,418;10,40;23298;0,0136;0,0520;8;Grupo CBO8;23.298 Operadores de máquinas e instalações de produtos farmacêuticos, cosméticos e afins
+8212;Operadores de fornos de primeira  fusão e aciaria;0,375;9,33;23096;0,0103;0,0552;8;Grupo CBO8;23.096 Operadores de fornos de primeira  fusão e aciaria
+9111;Mecânicos de manutenção de bombas, motores, compressores e equipamentos de transmissão;0,389;9,39;22966;0,0120;0,0552;9;Grupo CBO9;22.966 Mecânicos de manutenção de bombas, motores, compressores e equipamentos de transmissão
+8321;Operadores de máquinas de fabricar papel e papelão;0,341;9,97;22644;0,0092;0,0532;8;Grupo CBO8;22.644 Operadores de máquinas de fabricar papel e papelão
+8623;Operadores de instalações de captação e esgotos;0,317;10,12;22606;0,0074;0,0520;8;Grupo CBO8;22.606 Operadores de instalações de captação e esgotos
+2123;Administradores de tecnologia da informação;0,096;9,63;22509;0,0011;0,0532;2;Grupo CBO2;22.509 Administradores de tecnologia da informação
+3221;Tecnólogos e técnicos em terapias complementares e estéticas;0,552;8,82;22412;0,0243;0,0589;3;Grupo CBO3;22.412 Tecnólogos e técnicos em terapias complementares e estéticas
+5103;Supervisores dos serviços de proteção, segurança e outros;0,155;9,78;22391;0,0035;0,0522;5;Grupo CBO5;22.391 Supervisores dos serviços de proteção, segurança e outros
+7111;Trabalhadores da extração de minerais sólidos;0,355;9,58;22094;0,0113;0,0538;7;Grupo CBO7;22.094 Trabalhadores da extração de minerais sólidos
+3732;Supervisores operacionais e técnicos em mídias audiovisuais;0,213;9,66;21755;0,0040;0,0541;3;Grupo CBO3;21.755 Supervisores operacionais e técnicos em mídias audiovisuais
+7652;Trabalhadores da confecção de artefatos de tecidos, couros e sintéticos;0,553;9,59;21755;0,0241;0,0546;7;Grupo CBO7;21.755 Trabalhadores da confecção de artefatos de tecidos, couros e sintéticos
+3123;Técnicos em geomática;0,331;8,25;21751;0,0086;0,0550;3;Grupo CBO3;21.751 Técnicos em geomática
+7213;Afiadores e polidores de metais;0,452;9,28;21683;0,0165;0,0533;7;Grupo CBO7;21.683 Afiadores e polidores de metais
+2412;Procuradores e advogados públicos;0,005;9,37;21557;0,0000;0,0508;2;Grupo CBO2;21.557 Procuradores e advogados públicos
+2233;Veterinários e zootecnistas;0,059;9,12;21375;0,0005;0,0535;2;Grupo CBO2;21.375 Veterinários e zootecnistas
+3251;Técnico em farmácia e em manipulação farmacêutica;0,439;10,61;21218;0,0154;0,0542;3;Grupo CBO3;21.218 Técnico em farmácia e em manipulação farmacêutica
+6232;Trabalhadores na pecuária de animais de médio porte;0,602;9,27;21126;0,0285;0,0541;6;Grupo CBO6;21.126 Trabalhadores na pecuária de animais de médio porte
+7612;Operadores da fiação;0,596;10,27;20942;0,0297;0,0569;7;Grupo CBO7;20.942 Operadores da fiação
+3951;Técnicos de apoio em pesquisa e desenvolvimento;0,082;8,58;20667;0,0010;0,0530;3;Grupo CBO3;20.667 Técnicos de apoio em pesquisa e desenvolvimento
+1312;Gestores e especialistas de operações em empresas, secretarias e unidades de serviços de saúde;0,105;10,23;20296;0,0008;0,0554;1;Grupo CBO1;20.296 Gestores e especialistas de operações em empresas, secretarias e unidades de serviços de saúde
+6420;Trabalhadores da mecanização florestal;0,350;9,05;20017;0,0091;0,0532;6;Grupo CBO6;20.017 Trabalhadores da mecanização florestal
+8481;Trabalhadores artesanais na conservação de alimentos;0,673;9,73;19657;0,0343;0,0580;8;Grupo CBO8;19.657 Trabalhadores artesanais na conservação de alimentos
+7257;Instaladores de equipamentos de refrigeração e ventilação;0,435;9,12;19609;0,0148;0,0542;7;Grupo CBO7;19.609 Instaladores de equipamentos de refrigeração e ventilação
+2392;Professores de educação especial;0,233;9,98;19303;0,0052;0,0575;2;Grupo CBO2;19.303 Professores de educação especial
+3711;Técnicos em biblioteconomia;0,504;11,00;18991;0,0191;0,0602;3;Grupo CBO3;18.991 Técnicos em biblioteconomia
+3134;Técnicos em calibração e instrumentação;0,191;9,52;18924;0,0028;0,0527;3;Grupo CBO3;18.924 Técnicos em calibração e instrumentação
+7831;Trabalhadores de manobras de transportes sobre trilhos;0,632;9,10;18880;0,0277;0,0551;7;Grupo CBO7;18.880 Trabalhadores de manobras de transportes sobre trilhos
+2711;Chefes de cozinha e afins;0,378;9,48;18624;0,0121;0,0536;2;Grupo CBO2;18.624 Chefes de cozinha e afins
+1426;Gerentes de pesquisa e desenvolvimento e afins;0,017;9,10;18467;0,0001;0,0523;1;Grupo CBO1;18.467 Gerentes de pesquisa e desenvolvimento e afins
+6224;Trabalhadores agrícolas no cultivo de flores e plantas ornamentais;0,666;9,64;18378;0,0392;0,0609;6;Grupo CBO6;18.378 Trabalhadores agrícolas no cultivo de flores e plantas ornamentais
+7601;Supervisores da indústria têxtil;0,387;9,81;18315;0,0115;0,0607;7;Grupo CBO7;18.315 Supervisores da indústria têxtil
+3543;Analistas de comércio exterior;0,050;9,11;18296;0,0007;0,0500;3;Grupo CBO3;18.296 Analistas de comércio exterior
+7201;Supervisores de usinagem, conformação e tratamento de metais;0,124;9,44;18200;0,0019;0,0519;7;Grupo CBO7;18.200 Supervisores de usinagem, conformação e tratamento de metais
+6223;Trabalhadores agrícolas na olericultura;0,614;8,00;18197;0,0372;0,0607;6;Grupo CBO6;18.197 Trabalhadores agrícolas na olericultura
+7202;Supervisores da fabricação e montagem metalmecânica;0,052;9,82;18159;0,0006;0,0495;7;Grupo CBO7;18.159 Supervisores da fabricação e montagem metalmecânica
+7683;Trabalhadores artesanais da confecção de calçados e artefatos de couros e peles;0,701;9,54;17962;0,0411;0,0614;7;Grupo CBO7;17.962 Trabalhadores artesanais da confecção de calçados e artefatos de couros e peles
+8111;Operadores de equipamentos de moagem e mistura de materiais (tratamentos químicos e afins);0,347;9,65;17888;0,0095;0,0515;8;Grupo CBO8;17.888 Operadores de equipamentos de moagem e mistura de materiais (tratamentos químicos e afins)
+311;Subtenentes e sargentos do corpo de bombeiros militar;0,001;10,52;17806;0,0000;0,0510;0;Grupo CBO0;17.806 Subtenentes e sargentos do corpo de bombeiros militar
+1311;Diretores e gerentes de operações em empresa de serviços pessoais, sociais e culturais;0,185;9,94;17772;0,0026;0,0554;1;Grupo CBO1;17.772 Diretores e gerentes de operações em empresa de serviços pessoais, sociais e culturais
+7721;Trabalhadores de tratamento e preparação da madeira;0,652;9,15;17730;0,0367;0,0579;7;Grupo CBO7;17.730 Trabalhadores de tratamento e preparação da madeira
+9501;Supervisores de manutenção eletroeletrônica industrial, comercial e predial;0,076;8,86;17698;0,0010;0,0509;9;Grupo CBO9;17.698 Supervisores de manutenção eletroeletrônica industrial, comercial e predial
+2541;Auditores fiscais e técnicos da receita federal;0,001;11,21;17695;0,0000;0,0535;2;Grupo CBO2;17.695 Auditores fiscais e técnicos da receita federal
+3188;Desenhistas projetistas e modelistas de produtos e serviços diversos;0,369;9,09;17677;0,0107;0,0552;3;Grupo CBO3;17.677 Desenhistas projetistas e modelistas de produtos e serviços diversos
+7157;Aplicadores de materiais isolantes;0,488;8,47;17464;0,0183;0,0520;7;Grupo CBO7;17.464 Aplicadores de materiais isolantes
+312;Cabos e soldados do corpo de bombeiros militar;0,002;8,30;17417;0,0000;0,0569;0;Grupo CBO0;17.417 Cabos e soldados do corpo de bombeiros militar
+5111;Trabalhadores de segurança e atendimento aos usuários nos transportes;0,142;9,20;17278;0,0020;0,0562;5;Grupo CBO5;17.278 Trabalhadores de segurança e atendimento aos usuários nos transportes
+1411;Gerentes de produção e operações em empresa agropecuária, pesqueira, aqüícola e florestal;0,200;10,00;17035;0,0032;0,0528;1;Grupo CBO1;17.035 Gerentes de produção e operações em empresa agropecuária, pesqueira, aqüícola e florestal
+3313;Professores de nível médio no ensino profissionalizante;0,169;10,27;16958;0,0036;0,0539;3;Grupo CBO3;16.958 Professores de nível médio no ensino profissionalizante
+3523;Agentes  fiscais metrológicos e de qualidade;0,302;10,20;16882;0,0072;0,0549;3;Grupo CBO3;16.882 Agentes  fiscais metrológicos e de qualidade
+8413;Trabalhadores na fabricação e refino de açúcar;0,262;9,49;16850;0,0070;0,0498;8;Grupo CBO8;16.850 Trabalhadores na fabricação e refino de açúcar
+8421;Cigarreiros e beneficiadores de fumo;0,703;6,19;16600;0,0324;0,0621;8;Grupo CBO8;16.600 Cigarreiros e beneficiadores de fumo
+8113;Operadores de equipamentos de filtragem e separação;0,097;9,81;16315;0,0004;0,0510;8;Grupo CBO8;16.315 Operadores de equipamentos de filtragem e separação
+2141;Arquitetos e urbanistas;0,043;8,91;16294;0,0003;0,0531;2;Grupo CBO2;16.294 Arquitetos e urbanistas
+3186;Desenhistas projetistas da mecânica;0,071;8,77;16172;0,0010;0,0504;3;Grupo CBO3;16.172 Desenhistas projetistas da mecânica
+7603;Supervisores na confecção do vestuário;0,459;10,18;15852;0,0163;0,0535;7;Grupo CBO7;15.852 Supervisores na confecção do vestuário
+7223;Trabalhadores de moldagem de metais e de ligas metálicas;0,434;9,68;15593;0,0157;0,0529;7;Grupo CBO7;15.593 Trabalhadores de moldagem de metais e de ligas metálicas
+6227;Trabalhadores agrícolas na cultura de plantas oleaginosas;0,544;9,22;15430;0,0266;0,0560;6;Grupo CBO6;15.430 Trabalhadores agrícolas na cultura de plantas oleaginosas
+2543;Auditores fiscais do trabalho;0,593;10,57;15395;0,0082;0,0645;2;Grupo CBO2;15.395 Auditores fiscais do trabalho
+2238;Fonoaudiólogos;0,139;9,43;15295;0,0025;0,0518;2;Grupo CBO2;15.295 Fonoaudiólogos
+5192;Trabalhadores da coleta e seleção de material reciclável;0,675;9,09;15258;0,0377;0,0586;5;Grupo CBO5;15.258 Trabalhadores da coleta e seleção de material reciclável
+3180;Desenhistas técnicos, em geral;0,222;9,46;15154;0,0048;0,0537;3;Grupo CBO3;15.154 Desenhistas técnicos, em geral
+2343;Professores de arquitetura e urbanismo, engenharia, geofísica e geologia do ensino superior;0,031;9,30;14866;0,0002;0,0547;2;Grupo CBO2;14.866 Professores de arquitetura e urbanismo, engenharia, geofísica e geologia do ensino superior
+2617;Locutores, comentaristas e repórteres de mídias audiovisuais;0,388;10,17;14841;0,0100;0,0584;2;Grupo CBO2;14.841 Locutores, comentaristas e repórteres de mídias audiovisuais
+1113;Magistrados;0,002;11,24;14594;0,0000;0,0583;1;Grupo CBO1;14.594 Magistrados
+3003;Técnicos em eletromecânica;0,111;9,55;14446;0,0018;0,0540;3;Grupo CBO3;14.446 Técnicos em eletromecânica
+5165;Trabalhadores dos serviços funerários;0,521;9,59;14445;0,0194;0,0542;5;Grupo CBO5;14.445 Trabalhadores dos serviços funerários
+8331;Operadores de máquinas na fabricação de produtos de papel e papelão;0,558;9,87;14392;0,0229;0,0545;8;Grupo CBO8;14.392 Operadores de máquinas na fabricação de produtos de papel e papelão
+3741;Técnicos em áudio;0,501;9,30;14251;0,0204;0,0574;3;Grupo CBO3;14.251 Técnicos em áudio
+3424;Técnicos em transportes metroferroviários;0,168;9,78;14235;0,0028;0,0551;3;Grupo CBO3;14.235 Técnicos em transportes metroferroviários
+3252;Técnicos em produção, conservação  e de qualidade de alimentos;0,426;9,58;14127;0,0150;0,0549;3;Grupo CBO3;14.127 Técnicos em produção, conservação  e de qualidade de alimentos
+7232;Trabalhadores de tratamento de superfícies de metais e de compósitos (termoquímicos);0,377;9,65;14049;0,0121;0,0502;7;Grupo CBO7;14.049 Trabalhadores de tratamento de superfícies de metais e de compósitos (termoquímicos)
+3185;Desenhistas projetistas de construção civil e arquitetura;0,232;8,79;13752;0,0056;0,0535;3;Grupo CBO3;13.752 Desenhistas projetistas de construção civil e arquitetura
+1233;Diretores de comercialização e marketing;0,066;9,69;13514;0,0002;0,0544;1;Grupo CBO1;13.514 Diretores de comercialização e marketing
+3115;Técnicos em controle ambiental, utilidades e tratamento de efluentes;0,222;9,96;13250;0,0042;0,0581;3;Grupo CBO3;13.250 Técnicos em controle ambiental, utilidades e tratamento de efluentes
+9911;Conservadores de vias permanentes (trilhos);0,547;8,94;13241;0,0224;0,0545;9;Grupo CBO9;13.241 Conservadores de vias permanentes (trilhos)
+7826;Operadores de veículos sobre trilhos e cabos aéreos;0,069;8,94;13116;0,0008;0,0542;7;Grupo CBO7;13.116 Operadores de veículos sobre trilhos e cabos aéreos
+8601;Supervisores da produção de utilidades;0,087;9,40;13067;0,0010;0,0526;8;Grupo CBO8;13.067 Supervisores da produção de utilidades
+2032;Pesquisadores de engenharia e tecnologia;0,006;8,21;12819;0,0000;0,0515;2;Grupo CBO2;12.819 Pesquisadores de engenharia e tecnologia
+3751;Designers de interiores, de vitrines e visual merchandiser e afins (nível médio);0,456;9,26;12639;0,0186;0,0578;3;Grupo CBO3;12.639 Designers de interiores, de vitrines e visual merchandiser e afins (nível médio)
+8484;Trabalhadores na degustação e classificação de grãos e afins;0,492;7,48;12564;0,0141;0,0543;8;Grupo CBO8;12.564 Trabalhadores na degustação e classificação de grãos e afins
+8411;Trabalhadores da indústria de beneficiamento de grãos, cereais e afins;0,527;8,67;12514;0,0182;0,0537;8;Grupo CBO8;12.514 Trabalhadores da indústria de beneficiamento de grãos, cereais e afins
+7113;Trabalhadores da extração de minerais líquidos e gasosos;0,298;8,74;12405;0,0048;0,0540;7;Grupo CBO7;12.405 Trabalhadores da extração de minerais líquidos e gasosos
+3744;Técnicos em montagem, edição e finalização de mídia audiovisual;0,432;9,23;12349;0,0157;0,0553;3;Grupo CBO3;12.349 Técnicos em montagem, edição e finalização de mídia audiovisual
+3122;Técnicos em construção civil (obras de infraestrutura);0,278;9,57;12284;0,0054;0,0539;3;Grupo CBO3;12.284 Técnicos em construção civil (obras de infraestrutura)
+6326;Carvoejadores;0,641;8,60;12263;0,0376;0,0594;6;Grupo CBO6;12.263 Carvoejadores
+8417;Trabalhadores na fabricação de cachaça, cerveja, vinhos e outras bebidas;0,541;9,08;12127;0,0225;0,0574;8;Grupo CBO8;12.127 Trabalhadores na fabricação de cachaça, cerveja, vinhos e outras bebidas
+203;Tenentes da polícia militar;0,001;12,00;12113;0,0000;0,0510;0;Grupo CBO0;12.113 Tenentes da polícia militar
+3771;Atletas profissionais;0,253;6,84;12102;0,0022;0,0616;3;Grupo CBO3;12.102 Atletas profissionais
+1413;Gerentes de obras em empresa de construção;0,101;9,02;11597;0,0009;0,0520;1;Grupo CBO1;11.597 Gerentes de obras em empresa de construção
+7701;Supervisores em indústria de madeira, mobiliário e da carpintaria veicular;0,242;9,59;11572;0,0060;0,0519;7;Grupo CBO7;11.572 Supervisores em indústria de madeira, mobiliário e da carpintaria veicular
+2423;Delegados de polícia;0,002;11,47;11554;0,0000;0,0564;2;Grupo CBO2;11.554 Delegados de polícia
+2211;Biólogos e afins;0,048;9,51;11543;0,0005;0,0509;2;Grupo CBO2;11.543 Biólogos e afins
+4231;Despachantes documentalistas e afins;0,591;9,63;11400;0,0273;0,0584;4;Grupo CBO4;11.400 Despachantes documentalistas e afins
+6322;Extrativistas florestais de espécies produtoras de gomas e resinas;0,608;8,79;11261;0,0328;0,0567;6;Grupo CBO6;11.261 Extrativistas florestais de espécies produtoras de gomas e resinas
+3184;Desenhistas técnicos de produtos e serviços diversos;0,390;9,24;11257;0,0124;0,0552;3;Grupo CBO3;11.257 Desenhistas técnicos de produtos e serviços diversos
+8213;Operadores de equipamentos de laminação;0,317;9,48;11221;0,0080;0,0517;8;Grupo CBO8;11.221 Operadores de equipamentos de laminação
+2341;Professores de matemática, estatística e informática do ensino superior;0,052;10,18;11006;0,0004;0,0552;2;Grupo CBO2;11.006 Professores de matemática, estatística e informática do ensino superior
+2422;Membros do ministério público;0,002;11,29;10834;0,0000;0,0540;2;Grupo CBO2;10.834 Membros do ministério público
+7411;Mecânicos de instrumentos de precisão;0,416;9,70;10706;0,0150;0,0573;7;Grupo CBO7;10.706 Mecânicos de instrumentos de precisão
+7620;Trabalhadores polivalentes do curtimento de couros e peles;0,638;9,00;10675;0,0327;0,0542;7;Grupo CBO7;10.675 Trabalhadores polivalentes do curtimento de couros e peles
+8232;Operadores de equipamentos de fabricação  e beneficiamento de cristais, vidros, cerâmicas, porcelanas, fibras de vidro, abrasivos e afins;0,376;8,92;10567;0,0096;0,0528;8;Grupo CBO8;10.567 Operadores de equipamentos de fabricação  e beneficiamento de cristais, vidros, cerâmicas, porcelanas, fibras de vidro, abrasivos e afins
+7221;Trabalhadores de forjamento de metais;0,487;8,64;10505;0,0154;0,0536;7;Grupo CBO7;10.505 Trabalhadores de forjamento de metais
+7301;Supervisores de montagens e instalações eletroeletrônicas;0,118;9,52;10427;0,0016;0,0519;7;Grupo CBO7;10.427 Supervisores de montagens e instalações eletroeletrônicas
+8110;Operadores polivalentes de equipamentos em indústrias químicas, petroquímicas e afins;0,146;8,25;10424;0,0010;0,0520;8;Grupo CBO8;10.424 Operadores polivalentes de equipamentos em indústrias químicas, petroquímicas e afins
+5243;Vendedores ambulantes;0,547;8,54;10181;0,0268;0,0610;5;Grupo CBO5;10.181 Vendedores ambulantes
+2212;Biomédicos;0,081;9,23;10117;0,0013;0,0507;2;Grupo CBO2;10.117 Biomédicos
+9141;Mecânicos de manutenção aeronáutica;0,198;9,32;10091;0,0025;0,0542;9;Grupo CBO9;10.091 Mecânicos de manutenção aeronáutica
+5242;Vendedores em bancas, quiosques e barracas;0,584;9,30;9997;0,0296;0,0600;5;Grupo CBO5;9.997 Vendedores em bancas, quiosques e barracas
+5164;Lavadores e passadores de roupa, a mão;0,763;9,83;9986;0,0465;0,0614;5;Grupo CBO5;9.986 Lavadores e passadores de roupa, a mão
+5131;Mordomos e governantas;0,480;9,78;9943;0,0178;0,0554;5;Grupo CBO5;9.943 Mordomos e governantas
+7734;Operadores de máquina de usinar madeira (produção em série);0,560;10,17;9919;0,0239;0,0525;7;Grupo CBO7;9.919 Operadores de máquina de usinar madeira (produção em série)
+7121;Trabalhadores de beneficiamento de minérios;0,364;9,74;9898;0,0118;0,0528;7;Grupo CBO7;9.898 Trabalhadores de beneficiamento de minérios
+3731;Técnicos de operação de registros sonoro/audiovisuais;0,381;10,49;9881;0,0120;0,0561;3;Grupo CBO3;9.881 Técnicos de operação de registros sonoro/audiovisuais
+7604;Supervisores na confecção de calçados;0,332;10,17;9755;0,0094;0,0532;7;Grupo CBO7;9.755 Supervisores na confecção de calçados
+9102;Supervisores em serviços de reparação e manutenção veicular;0,144;9,30;9538;0,0022;0,0531;9;Grupo CBO9;9.538 Supervisores em serviços de reparação e manutenção veicular
+2153;Profissionais da pilotagem aeronáutica;0,024;9,00;9525;0,0001;0,0562;2;Grupo CBO2;9.525 Profissionais da pilotagem aeronáutica
+9143;Mecânicos de manutenção metroferroviária;0,323;9,94;9330;0,0063;0,0541;9;Grupo CBO9;9.330 Mecânicos de manutenção metroferroviária
+7522;Trabalhadores da transformação de vidros planos;0,531;9,80;9279;0,0215;0,0549;7;Grupo CBO7;9.279 Trabalhadores da transformação de vidros planos
+7511;Artesãos de metais preciosos e semi-preciosos;0,594;9,92;9142;0,0261;0,0570;7;Grupo CBO7;9.142 Artesãos de metais preciosos e semi-preciosos
+9503;Supervisores de manutenção eletromecânica;0,038;9,16;9079;0,0003;0,0525;9;Grupo CBO9;9.079 Supervisores de manutenção eletromecânica
+9193;Mecânicos de manutenção de bicicletas e equipamentos esportivos e de ginástica;0,600;9,59;9029;0,0331;0,0606;9;Grupo CBO9;9.029 Mecânicos de manutenção de bicicletas e equipamentos esportivos e de ginástica
+2145;Engenheiros químicos e afins;0,006;8,96;8912;0,0000;0,0548;2;Grupo CBO2;8.912 Engenheiros químicos e afins
+8101;Supervisores de produção em indústrias químicas, petroquímicas e afins;0,078;9,92;8756;0,0008;0,0505;8;Grupo CBO8;8.756 Supervisores de produção em indústrias químicas, petroquímicas e afins
+8611;Operadores de instalações de geração e distribuição de energia elétrica, hidráulica, térmica ou nuclear;0,136;10,30;8723;0,0014;0,0477;8;Grupo CBO8;8.723 Operadores de instalações de geração e distribuição de energia elétrica, hidráulica, térmica ou nuclear
+2151;Oficiais de convés e afins;0,131;9,93;8394;0,0008;0,0562;2;Grupo CBO2;8.394 Oficiais de convés e afins
+3143;Técnicos em mecânica veicular;0,106;9,77;8317;0,0015;0,0537;3;Grupo CBO3;8.317 Técnicos em mecânica veicular
+8114;Operadores de equipamentos de destilação, evaporação e reação;0,194;9,68;8103;0,0041;0,0514;8;Grupo CBO8;8.103 Operadores de equipamentos de destilação, evaporação e reação
+6312;Pescadores de água costeira e alto mar;0,394;7,07;7958;0,0165;0,0518;6;Grupo CBO6;7.958 Pescadores de água costeira e alto mar
+7253;Montadores de máquinas pesadas e equipamentos agrícolas;0,301;8,50;7843;0,0080;0,0518;7;Grupo CBO7;7.843 Montadores de máquinas pesadas e equipamentos agrícolas
+3722;Operadores de rede de teleprocessamento e afins;0,339;9,67;7830;0,0098;0,0549;3;Grupo CBO3;7.830 Operadores de rede de teleprocessamento e afins
+8102;Supervisores de produção em indústrias de transformação de plásticos e borrachas;0,139;10,00;7827;0,0023;0,0518;8;Grupo CBO8;7.827 Supervisores de produção em indústrias de transformação de plásticos e borrachas
+7623;Trabalhadores do acabamento de couros e peles;0,569;9,92;7822;0,0260;0,0540;7;Grupo CBO7;7.822 Trabalhadores do acabamento de couros e peles
+3322;Professores práticos no ensino profissionalizante;0,214;10,13;7623;0,0069;0,0565;3;Grupo CBO3;7.623 Professores práticos no ensino profissionalizante
+3114;Técnicos em fabricação de produtos plásticos e de borracha;0,367;10,17;7597;0,0109;0,0535;3;Grupo CBO3;7.597 Técnicos em fabricação de produtos plásticos e de borracha
+2621;Produtores artísticos e culturais;0,146;9,33;7592;0,0032;0,0540;2;Grupo CBO2;7.592 Produtores artísticos e culturais
+7801;Supervisores de trabalhadores de embalagem e etiquetagem;0,325;10,28;7398;0,0086;0,0524;7;Grupo CBO7;7.398 Supervisores de trabalhadores de embalagem e etiquetagem
+202;Capitães da  polícia militar;0,001;12,00;7323;0,0000;0,0638;0;Grupo CBO0;7.323 Capitães da  polícia militar
+2613;Arquivistas e museólogos;0,378;10,22;7268;0,0089;0,0579;2;Grupo CBO2;7.268 Arquivistas e museólogos
+8482;Trabalhadores artesanais na pasteurização do leite e na fabricação de laticínios e afins;0,548;9,96;7229;0,0248;0,0571;8;Grupo CBO8;7.229 Trabalhadores artesanais na pasteurização do leite e na fabricação de laticínios e afins
+7664;Trabalhadores de laboratório fotográfico e radiológico;0,417;10,04;7171;0,0142;0,0562;7;Grupo CBO7;7.171 Trabalhadores de laboratório fotográfico e radiológico
+3721;Captadores de imagens em movimento;0,289;9,57;7114;0,0071;0,0532;3;Grupo CBO3;7.114 Captadores de imagens em movimento
+2122;Engenheiros em computação;0,008;8,75;7062;0,0001;0,0489;2;Grupo CBO2;7.062 Engenheiros em computação
+7751;Trabalhadores de arte e  do acabamento em madeira do mobiliário;0,617;9,72;7052;0,0302;0,0560;7;Grupo CBO7;7.052 Trabalhadores de arte e  do acabamento em madeira do mobiliário
+5166;Trabalhadores auxiliares dos serviços funerários;0,635;10,46;6986;0,0289;0,0551;5;Grupo CBO5;6.986 Trabalhadores auxiliares dos serviços funerários
+201;Oficiais superiores da polícia militar;0,009;11,13;6931;0,0000;0,0498;0;Grupo CBO0;6.931 Oficiais superiores da polícia militar
+2239;Terapeutas ocupacionais e ortoptistas;0,107;9,32;6882;0,0016;0,0527;2;Grupo CBO2;6.882 Terapeutas ocupacionais e ortoptistas
+3181;Desenhistas técnicos da construção civil e arquitetura;0,288;9,35;6882;0,0080;0,0536;3;Grupo CBO3;6.882 Desenhistas técnicos da construção civil e arquitetura
+2628;Artistas da dança (exceto dança tradicional e popular);0,253;10,01;6677;0,0088;0,0584;2;Grupo CBO2;6.677 Artistas da dança (exceto dança tradicional e popular)
+7224;Trabalhadores de trefilação e estiramento de metais puros e ligas metálicas;0,206;9,33;6667;0,0049;0,0516;7;Grupo CBO7;6.667 Trabalhadores de trefilação e estiramento de metais puros e ligas metálicas
+7101;Supervisores da extração mineral;0,122;9,56;6614;0,0014;0,0548;7;Grupo CBO7;6.614 Supervisores da extração mineral
+2132;Químicos;0,052;9,79;6502;0,0004;0,0522;2;Grupo CBO2;6.502 Químicos
+8202;Supervisores na fabricação de materiais para construção (vidros e cerâmicas);0,223;9,83;6465;0,0040;0,0529;8;Grupo CBO8;6.465 Supervisores na fabricação de materiais para construção (vidros e cerâmicas)
+7654;Trabalhadores do acabamento de artefatos de tecidos e couros;0,651;9,53;6444;0,0391;0,0603;7;Grupo CBO7;6.444 Trabalhadores do acabamento de artefatos de tecidos e couros
+2627;Músicos intérpretes;0,291;10,32;6402;0,0061;0,0597;2;Grupo CBO2;6.402 Músicos intérpretes
+3212;Técnicos florestais;0,290;9,65;6239;0,0072;0,0544;3;Grupo CBO3;6.239 Técnicos florestais
+3422;Despachantes aduaneiros;0,449;9,17;6184;0,0159;0,0603;3;Grupo CBO3;6.184 Despachantes aduaneiros
+6301;Supervisores na área florestal e aqüicultura;0,240;9,32;6123;0,0056;0,0521;6;Grupo CBO6;6.123 Supervisores na área florestal e aqüicultura
+6430;Trabalhadores da irrigação e drenagem;0,527;9,25;6043;0,0201;0,0543;6;Grupo CBO6;6.043 Trabalhadores da irrigação e drenagem
+7651;Trabalhadores da preparação de artefatos de tecidos, couros e tapeçaria;0,663;9,70;5981;0,0327;0,0568;7;Grupo CBO7;5.981 Trabalhadores da preparação de artefatos de tecidos, couros e tapeçaria
+8625;Operadores de instalações de refrigeração e ar-condicionado;0,426;8,90;5977;0,0144;0,0548;8;Grupo CBO8;5.977 Operadores de instalações de refrigeração e ar-condicionado
+3142;Técnicos mecânicos (ferramentas);0,108;9,25;5793;0,0018;0,0539;3;Grupo CBO3;5.793 Técnicos mecânicos (ferramentas)
+3223;Técnicos em óptica e optometria;0,287;10,42;5602;0,0046;0,0558;3;Grupo CBO3;5.602 Técnicos em óptica e optometria
+7254;Mecânicos montadores de motores e turboalimentadores;0,261;9,14;5494;0,0064;0,0534;7;Grupo CBO7;5.494 Mecânicos montadores de motores e turboalimentadores
+3412;Técnicos marítimos, fluviários e pescadores de convés;0,136;9,98;5484;0,0023;0,0572;3;Grupo CBO3;5.484 Técnicos marítimos, fluviários e pescadores de convés
+2618;Fotógrafos profissionais;0,429;9,33;5451;0,0132;0,0587;2;Grupo CBO2;5.451 Fotógrafos profissionais
+8221;Forneiros metalúrgicos (segunda fusão e reaquecimento);0,242;9,72;5451;0,0059;0,0522;8;Grupo CBO8;5.451 Forneiros metalúrgicos (segunda fusão e reaquecimento)
+7622;Trabalhadores do curtimento de couros e peles;0,541;9,42;5425;0,0233;0,0535;7;Grupo CBO7;5.425 Trabalhadores do curtimento de couros e peles
+7312;Montadores de aparelhos de telecomunicações;0,599;8,57;5350;0,0272;0,0574;7;Grupo CBO7;5.350 Montadores de aparelhos de telecomunicações
+101;Oficiais generais das forças armadas;0,585;11,31;5348;0,0114;0,0595;0;Grupo CBO0;5.348 Oficiais generais das forças armadas
+7735;Operadores de máquinas de usinagem de madeira cnc;0,434;9,90;5322;0,0159;0,0510;7;Grupo CBO7;5.322 Operadores de máquinas de usinagem de madeira cnc
+2134;Geólogos, oceanógrafos, geofísicos e afins;0,011;8,84;5305;0,0000;0,0545;2;Grupo CBO2;5.305 Geólogos, oceanógrafos, geofísicos e afins
+2614;Filólogos,tradutores ,intérpretes e afins;0,230;9,54;5276;0,0060;0,0586;2;Grupo CBO2;5.276 Filólogos,tradutores ,intérpretes e afins
+3146;Técnicos em metalurgia (estruturas metálicas);0,118;8,83;5269;0,0016;0,0525;3;Grupo CBO3;5.269 Técnicos em metalurgia (estruturas metálicas)
+8311;Preparadores de pasta para fabricação de papel;0,274;9,51;5264;0,0047;0,0534;8;Grupo CBO8;5.264 Preparadores de pasta para fabricação de papel
+2349;Professores de artes do ensino superior;0,143;10,36;5250;0,0021;0,0554;2;Grupo CBO2;5.250 Professores de artes do ensino superior
+2424;Defensores públicos e procuradores da assistência judiciária;0,008;9,30;5220;0,0000;0,0524;2;Grupo CBO2;5.220 Defensores públicos e procuradores da assistência judiciária
+7653;Operadores de máquinas na confecção de artefatos de  couro;0,739;9,71;5166;0,0392;0,0582;7;Grupo CBO7;5.166 Operadores de máquinas na confecção de artefatos de  couro
+7161;Revestidores de concreto;0,570;9,14;5060;0,0245;0,0535;7;Grupo CBO7;5.060 Revestidores de concreto
+8116;Operadores de equipamentos de coqueificação;0,231;10,01;5050;0,0047;0,0518;8;Grupo CBO8;5.050 Operadores de equipamentos de coqueificação
+7231;Trabalhadores de tratamento térmico de metais;0,260;9,29;4984;0,0065;0,0502;7;Grupo CBO7;4.984 Trabalhadores de tratamento térmico de metais
+5102;Supervisores de lavanderia;0,440;10,33;4983;0,0160;0,0524;5;Grupo CBO5;4.983 Supervisores de lavanderia
+3001;Técnicos em mecatrônica;0,098;8,72;4982;0,0016;0,0517;3;Grupo CBO3;4.982 Técnicos em mecatrônica
+3426;Técnicos em transportes por vias navegáveis e operações portuárias;0,209;9,41;4915;0,0033;0,0537;3;Grupo CBO3;4.915 Técnicos em transportes por vias navegáveis e operações portuárias
+8231;Operadores na preparação de massas para abrasivo, vidro, cerâmica, porcelana e materiais de construção;0,343;9,66;4903;0,0107;0,0534;8;Grupo CBO8;4.903 Operadores na preparação de massas para abrasivo, vidro, cerâmica, porcelana e materiais de construção
+3163;Técnicos em mineração;0,056;9,31;4897;0,0007;0,0524;3;Grupo CBO3;4.897 Técnicos em mineração
+7606;Supervisores das artes gráficas;0,174;9,91;4823;0,0029;0,0516;7;Grupo CBO7;4.823 Supervisores das artes gráficas
+2041;Peritos criminais;0,001;9,00;4791;0,0000;0,0591;2;Grupo CBO2;4.791 Peritos criminais
+2533;Corretores de valores, ativos financeiros, mercadorias e derivativos;0,178;9,48;4721;0,0028;0,0526;2;Grupo CBO2;4.721 Corretores de valores, ativos financeiros, mercadorias e derivativos
+7828;Condutores de animais e de veículos de tração animal e pedais;0,539;9,16;4538;0,0272;0,0591;7;Grupo CBO7;4.538 Condutores de animais e de veículos de tração animal e pedais
+2623;Cenógrafos;0,193;9,18;4534;0,0034;0,0536;2;Grupo CBO2;4.534 Cenógrafos
+2342;Professores de ciências físicas, químicas e afins do ensino superior;0,047;9,57;4521;0,0002;0,0566;2;Grupo CBO2;4.521 Professores de ciências físicas, químicas e afins do ensino superior
+7510;Joalheiros e lapidadores de gemas;0,628;9,95;4419;0,0312;0,0581;7;Grupo CBO7;4.419 Joalheiros e lapidadores de gemas
+3547;Representantes comerciais autônomos;0,421;8,90;4376;0,0112;0,0566;3;Grupo CBO3;4.376 Representantes comerciais autônomos
+1115;Gestores públicos;0,030;10,06;4357;0,0003;0,0507;1;Grupo CBO1;4.357 Gestores públicos
+9542;Reparadores de aparelhos eletrodomésticos;0,633;8,98;4349;0,0289;0,0586;9;Grupo CBO9;4.349 Reparadores de aparelhos eletrodomésticos
+8211;Operadores de instalações de sinterização;0,301;9,64;4294;0,0073;0,0526;8;Grupo CBO8;4.294 Operadores de instalações de sinterização
+9151;Técnicos em manutenção e reparação de instrumentos de medição e precisão;0,195;9,06;4293;0,0033;0,0537;9;Grupo CBO9;4.293 Técnicos em manutenção e reparação de instrumentos de medição e precisão
+6313;Criadores de animais aquáticos;0,613;9,34;4289;0,0362;0,0627;6;Grupo CBO6;4.289 Criadores de animais aquáticos
+2253;Médicos em medicina diagnóstica e terapêutica;0,020;10,08;4244;0,0001;0,0522;2;Grupo CBO2;4.244 Médicos em medicina diagnóstica e terapêutica
+3187;Desenhistas projetistas da eletrônica;0,129;8,79;4207;0,0026;0,0513;3;Grupo CBO3;4.207 Desenhistas projetistas da eletrônica
+3135;Técnicos em fotônica;0,262;9,02;4142;0,0076;0,0543;3;Grupo CBO3;4.142 Técnicos em fotônica
+7686;Trabalhadores tipográficos linotipistas e afins;0,563;9,73;4089;0,0236;0,0576;7;Grupo CBO7;4.089 Trabalhadores tipográficos linotipistas e afins
+2527;Profissionais de planejamento, programação e controles logisticos;0,063;8,07;3889;0,0010;0,0501;2;Grupo CBO2;3.889 Profissionais de planejamento, programação e controles logisticos
+8301;Supervisores da fabricação de celulose e papel;0,108;10,28;3864;0,0013;0,0526;8;Grupo CBO8;3.864 Supervisores da fabricação de celulose e papel
+2626;Músicos compositores, arranjadores, regentes e musicólogos;0,342;10,56;3852;0,0088;0,0591;2;Grupo CBO2;3.852 Músicos compositores, arranjadores, regentes e musicólogos
+2631;Ministros de culto, missionários, teólogos e profissionais assemelhados;0,240;10,35;3801;0,0048;0,0577;2;Grupo CBO2;3.801 Ministros de culto, missionários, teólogos e profissionais assemelhados
+6110;Produtores agropecuários em geral;0,563;9,69;3777;0,0334;0,0623;6;Grupo CBO6;3.777 Produtores agropecuários em geral
+7605;Supervisores da confecção de artefatos de tecidos, couros e afins;0,408;10,27;3774;0,0124;0,0546;7;Grupo CBO7;3.774 Supervisores da confecção de artefatos de tecidos, couros e afins
+2140;Engenheiros ambientais e afins;0,070;9,01;3765;0,0006;0,0533;2;Grupo CBO2;3.765 Engenheiros ambientais e afins
+2616;Editores;0,135;8,97;3681;0,0017;0,0554;2;Grupo CBO2;3.681 Editores
+7524;Vidreiros e ceramistas (arte e decoração);0,513;10,00;3627;0,0199;0,0548;7;Grupo CBO7;3.627 Vidreiros e ceramistas (arte e decoração)
+2112;Profissionais de estatística;0,021;10,75;3613;0,0002;0,0550;2;Grupo CBO2;3.613 Profissionais de estatística
+2146;Engenheiros metalurgistas, de materiais e afins;0,007;9,32;3611;0,0000;0,0511;2;Grupo CBO2;3.611 Engenheiros metalurgistas, de materiais e afins
+2147;Engenheiros de minas e afins;0,003;9,09;3611;0,0000;0,0548;2;Grupo CBO2;3.611 Engenheiros de minas e afins
+3546;Corretores de imóveis;0,459;9,03;3603;0,0129;0,0563;3;Grupo CBO3;3.603 Corretores de imóveis
+7764;Confeccionadores de artefatos de madeira, móveis de vime e afins;0,660;10,40;3583;0,0356;0,0584;7;Grupo CBO7;3.583 Confeccionadores de artefatos de madeira, móveis de vime e afins
+6320;Trabalhadores florestais polivalentes;0,617;9,67;3558;0,0335;0,0601;6;Grupo CBO6;3.558 Trabalhadores florestais polivalentes
+6120;Produtores agrícolas polivalentes;0,658;8,96;3478;0,0356;0,0592;6;Grupo CBO6;3.478 Produtores agrícolas polivalentes
+2152;Oficiais de máquinas da marinha mercante;0,114;10,97;3463;0,0006;0,0638;2;Grupo CBO2;3.463 Oficiais de máquinas da marinha mercante
+3544;Leiloeiros e avaliadores;0,275;9,31;3463;0,0065;0,0536;3;Grupo CBO3;3.463 Leiloeiros e avaliadores
+8624;Operadores de instalações de extração, processamento, envasamento e distribuição de gases;0,166;9,11;3359;0,0032;0,0535;8;Grupo CBO8;3.359 Operadores de instalações de extração, processamento, envasamento e distribuição de gases
+3413;Técnicos marítimos e fluviários de máquinas;0,205;9,35;3353;0,0032;0,0554;3;Grupo CBO3;3.353 Técnicos marítimos e fluviários de máquinas
+8332;Trabalhadores artesanais de produtos de papel e papelão;0,671;9,41;3124;0,0369;0,0582;8;Grupo CBO8;3.124 Trabalhadores artesanais de produtos de papel e papelão
+2615;Profissionais da escrita;0,158;9,78;3117;0,0018;0,0550;2;Grupo CBO2;3.117 Profissionais da escrita
+3226;Técnicos de imobilizações ortopédicas;0,315;10,43;3047;0,0096;0,0512;3;Grupo CBO3;3.047 Técnicos de imobilizações ortopédicas
+9153;Técnicos em manutenção e reparação de equipamentos biomédicos;0,242;9,74;3043;0,0057;0,0531;9;Grupo CBO9;3.043 Técnicos em manutenção e reparação de equipamentos biomédicos
+2111;Profissionais da matemática;0,093;10,20;3035;0,0010;0,0528;2;Grupo CBO2;3.035 Profissionais da matemática
+6133;Produtores da avicultura e cunicultura;0,655;9,42;3010;0,0376;0,0605;6;Grupo CBO6;3.010 Produtores da avicultura e cunicultura
+7681;Trabalhadores de tecelagem manual, tricô, crochê, rendas e afins;0,605;10,00;2984;0,0298;0,0590;7;Grupo CBO7;2.984 Trabalhadores de tecelagem manual, tricô, crochê, rendas e afins
+7682;Trabalhadores artesanais da confecção de peças e tecidos;0,726;9,75;2978;0,0419;0,0602;7;Grupo CBO7;2.978 Trabalhadores artesanais da confecção de peças e tecidos
+1232;Diretores de recursos humanos e relações de trabalho;0,175;10,62;2976;0,0008;0,0582;1;Grupo CBO1;2.976 Diretores de recursos humanos e relações de trabalho
+3182;Desenhistas técnicos da mecânica;0,113;9,13;2949;0,0024;0,0501;3;Grupo CBO3;2.949 Desenhistas técnicos da mecânica
+7732;Operadores de máquinas de aglomeração e prensagem de chapas;0,540;9,81;2946;0,0217;0,0525;7;Grupo CBO7;2.946 Operadores de máquinas de aglomeração e prensagem de chapas
+8201;Supervisores de produção em indústrias siderúrgicas;0,120;9,72;2932;0,0014;0,0561;8;Grupo CBO8;2.932 Supervisores de produção em indústrias siderúrgicas
+2033;Pesquisadores das ciências da saúde;0,021;9,40;2882;0,0001;0,0534;2;Grupo CBO2;2.882 Pesquisadores das ciências da saúde
+2035;Pesquisadores das ciências sociais e humanas;0,062;9,75;2857;0,0005;0,0550;2;Grupo CBO2;2.857 Pesquisadores das ciências sociais e humanas
+2030;Pesquisadores das ciências biológicas;0,050;8,64;2856;0,0003;0,0569;2;Grupo CBO2;2.856 Pesquisadores das ciências biológicas
+1236;Diretores de serviços de informática;0,084;10,05;2844;0,0004;0,0555;1;Grupo CBO1;2.844 Diretores de serviços de informática
+2413;Tabeliães e registradores;0,227;10,30;2743;0,0039;0,0586;2;Grupo CBO2;2.743 Tabeliães e registradores
+3411;Pilotos de aviação comercial, mecânicos de vôo e afins;0,077;9,14;2727;0,0008;0,0566;3;Grupo CBO3;2.727 Pilotos de aviação comercial, mecânicos de vôo e afins
+8416;Trabalhadores na industrialização de café, cacau, mate e de produtos afins;0,507;10,30;2726;0,0200;0,0565;8;Grupo CBO8;2.726 Trabalhadores na industrialização de café, cacau, mate e de produtos afins
+3713;Técnicos em artes gráficas;0,306;9,45;2718;0,0071;0,0554;3;Grupo CBO3;2.718 Técnicos em artes gráficas
+8103;Supervisores de produção em indústrias de produtos farmacêuticos, cosméticos e afins;0,100;10,49;2681;0,0014;0,0502;8;Grupo CBO8;2.681 Supervisores de produção em indústrias de produtos farmacêuticos, cosméticos e afins
+3250;Enólogos, perfumistas e aromistas;0,572;9,11;2658;0,0161;0,0596;3;Grupo CBO3;2.658 Enólogos, perfumistas e aromistas
+9502;Supervisores de manutenção eletroeletrônica veicular;0,261;9,61;2606;0,0060;0,0531;9;Grupo CBO9;2.606 Supervisores de manutenção eletroeletrônica veicular
+1226;Diretores de operações de serviços em empresa de armazenamento, de transporte e de telecomunicação;0,165;10,36;2591;0,0010;0,0542;1;Grupo CBO1;2.591 Diretores de operações de serviços em empresa de armazenamento, de transporte e de telecomunicação
+8121;Trabalhadores da fabricação de munição e explosivos químicos;0,708;9,69;2558;0,0290;0,0564;8;Grupo CBO8;2.558 Trabalhadores da fabricação de munição e explosivos químicos
+2021;Engenheiros de controle e automação, engenheiros mecatrônicos e afins;0,032;8,08;2539;0,0002;0,0508;2;Grupo CBO2;2.539 Engenheiros de controle e automação, engenheiros mecatrônicos e afins
+3763;Apresentadores de eventos, programas e espetáculos;0,347;8,54;2516;0,0093;0,0579;3;Grupo CBO3;2.516 Apresentadores de eventos, programas e espetáculos
+8612;Operadores de instalações de distribuição de energia elétrica;0,095;9,47;2478;0,0008;0,0505;8;Grupo CBO8;2.478 Operadores de instalações de distribuição de energia elétrica
+9543;Reparadores de equipamentos de escritório;0,481;9,80;2341;0,0169;0,0559;9;Grupo CBO9;2.341 Reparadores de equipamentos de escritório
+3742;Técnicos em cenografia;0,246;9,31;2319;0,0066;0,0544;3;Grupo CBO3;2.319 Técnicos em cenografia
+7621;Trabalhadores da preparação do curtimento de couros e peles;0,513;9,90;2292;0,0205;0,0530;7;Grupo CBO7;2.292 Trabalhadores da preparação do curtimento de couros e peles
+7817;Trabalhadores subaquáticos;0,082;7,96;2284;0,0009;0,0548;7;Grupo CBO7;2.284 Trabalhadores subaquáticos
+6323;Extrativistas florestais de espécies produtoras de fibras, ceras e óleos;0,401;4,31;2243;0,0260;0,0637;6;Grupo CBO6;2.243 Extrativistas florestais de espécies produtoras de fibras, ceras e óleos
+8112;Operadores de calcinação e de tratamentos químicos de materiais radioativos;0,401;8,85;2149;0,0080;0,0566;8;Grupo CBO8;2.149 Operadores de calcinação e de tratamentos químicos de materiais radioativos
+1223;Diretores de operações de obras em empresa de construção;0,133;10,03;2141;0,0010;0,0548;1;Grupo CBO1;2.141 Diretores de operações de obras em empresa de construção
+8486;Trabalhadores artesanais na indústria do fumo;0,746;5,93;2123;0,0460;0,0656;8;Grupo CBO8;2.123 Trabalhadores artesanais na indústria do fumo
+1234;Diretores de suprimentos e afins;0,156;9,70;2090;0,0008;0,0549;1;Grupo CBO1;2.090 Diretores de suprimentos e afins
+7687;Encadernadores e recuperadores de livros (pequenos lotes ou a unidade);0,607;10,29;2049;0,0245;0,0567;7;Grupo CBO7;2.049 Encadernadores e recuperadores de livros (pequenos lotes ou a unidade)
+7256;Montadores de sistemas e estruturas de aeronaves;0,071;9,01;1994;0,0010;0,0494;7;Grupo CBO7;1.994 Montadores de sistemas e estruturas de aeronaves
+2011;Profissionais da biotecnologia;0,017;9,67;1989;0,0001;0,0529;2;Grupo CBO2;1.989 Profissionais da biotecnologia
+303;Tenentes do corpo de bombeiros militar;0,001;12,00;1975;0,0000;0,0557;0;Grupo CBO0;1.975 Tenentes do corpo de bombeiros militar
+3545;Corretores de seguros;0,473;9,34;1905;0,0160;0,0586;3;Grupo CBO3;1.905 Corretores de seguros
+1238;Diretores de manutenção;0,245;10,14;1893;0,0018;0,0565;1;Grupo CBO1;1.893 Diretores de manutenção
+8412;Trabalhadores no beneficiamento do sal;0,584;9,82;1842;0,0289;0,0559;8;Grupo CBO8;1.842 Trabalhadores no beneficiamento do sal
+7521;Sopradores, moldadores e modeladores de vidros e afins;0,475;9,71;1841;0,0183;0,0576;7;Grupo CBO7;1.841 Sopradores, moldadores e modeladores de vidros e afins
+8115;Operadores de equipamentos de produção e refino de petróleo e gás;0,085;9,15;1833;0,0009;0,0535;8;Grupo CBO8;1.833 Operadores de equipamentos de produção e refino de petróleo e gás
+1227;Diretores de operações de serviços em instituição de intermediação financeira;0,105;9,74;1792;0,0003;0,0607;1;Grupo CBO1;1.792 Diretores de operações de serviços em instituição de intermediação financeira
+3147;Técnicos em siderurgia;0,101;9,31;1781;0,0017;0,0528;3;Grupo CBO3;1.781 Técnicos em siderurgia
+2622;Diretores de espetáculos e afins;0,120;9,99;1778;0,0008;0,0564;2;Grupo CBO2;1.778 Diretores de espetáculos e afins
+3116;Técnicos têxteis;0,241;9,86;1756;0,0053;0,0558;3;Grupo CBO3;1.756 Técnicos têxteis
+9912;Mantenedores de equipamentos de parques de diversões e similares;0,557;9,44;1735;0,0310;0,0608;9;Grupo CBO9;1.735 Mantenedores de equipamentos de parques de diversões e similares
+2031;Pesquisadores das ciências naturais e exatas;0,027;9,28;1710;0,0002;0,0528;2;Grupo CBO2;1.710 Pesquisadores das ciências naturais e exatas
+9109;Supervisores de outros trabalhadores de serviços de reparação, conservação e manutenção;0,260;9,63;1699;0,0036;0,0527;9;Grupo CBO9;1.699 Supervisores de outros trabalhadores de serviços de reparação, conservação e manutenção
+7650;Trabalhadores polivalentes da confecção de artefatos de tecidos e couros;0,586;9,71;1694;0,0372;0,0616;7;Grupo CBO7;1.694 Trabalhadores polivalentes da confecção de artefatos de tecidos e couros
+6131;Produtores em pecuária de animais de grande porte;0,560;9,84;1655;0,0310;0,0616;6;Grupo CBO6;1.655 Produtores em pecuária de animais de grande porte
+7811;Condutores de processos robotizados;0,206;9,76;1627;0,0045;0,0497;7;Grupo CBO7;1.627 Condutores de processos robotizados
+1142;Dirigentes e administradores de entidades patronais e dos trabalhadores e de outros interesses sócioeconômicos;0,176;10,80;1598;0,0016;0,0556;1;Grupo CBO1;1.598 Dirigentes e administradores de entidades patronais e dos trabalhadores e de outros interesses sócioeconômicos
+2526;Profissionais da administração dos serviços de segurança;0,054;9,47;1583;0,0005;0,0550;2;Grupo CBO2;1.583 Profissionais da administração dos serviços de segurança
+1222;Diretores de produção e operações em empresa da indústria extrativa, transformação e de serviços de utilidade pública;0,047;10,47;1569;0,0001;0,0555;1;Grupo CBO1;1.569 Diretores de produção e operações em empresa da indústria extrativa, transformação e de serviços de utilidade pública
+2034;Pesquisadores das ciências da agricultura;0,019;9,48;1541;0,0001;0,0532;2;Grupo CBO2;1.541 Pesquisadores das ciências da agricultura
+2012;Profissionais da metrologia;0,094;10,21;1536;0,0008;0,0526;2;Grupo CBO2;1.536 Profissionais da metrologia
+7911;Artesãos;0,520;9,71;1530;0,0308;0,0614;7;Grupo CBO7;1.530 Artesãos
+2511;Profissionais em pesquisa e análise antropológica sociológica;0,050;8,45;1519;0,0005;0,0536;2;Grupo CBO2;1.519 Profissionais em pesquisa e análise antropológica sociológica
+2545;Profissionais da fiscalização de atividades urbanas;0,113;11,20;1491;0,0015;0,0561;2;Grupo CBO2;1.491 Profissionais da fiscalização de atividades urbanas
+5114;Guias de turismo;0,413;9,34;1470;0,0173;0,0585;5;Grupo CBO5;1.470 Guias de turismo
+301;Oficiais superiores do corpo de bombeiros militar;0,021;9,52;1459;0,0001;0,0537;0;Grupo CBO0;1.459 Oficiais superiores do corpo de bombeiros militar
+1224;Diretores de operações em empresa do comércio;0,149;10,24;1454;0,0006;0,0539;1;Grupo CBO1;1.454 Diretores de operações em empresa do comércio
+3225;Técnicos em próteses ortopédicas;0,295;10,49;1442;0,0073;0,0542;3;Grupo CBO3;1.442 Técnicos em próteses ortopédicas
+1237;Diretores de pesquisa e desenvolvimento;0,047;8,93;1435;0,0001;0,0579;1;Grupo CBO1;1.435 Diretores de pesquisa e desenvolvimento
+7114;Garimpeiros e operadores de salinas;0,428;9,68;1427;0,0358;0,0585;7;Grupo CBO7;1.427 Garimpeiros e operadores de salinas
+302;Oficiais intermediários do corpo de bombeiros militar;0,012;11,25;1365;0,0000;0,0676;0;Grupo CBO0;1.365 Oficiais intermediários do corpo de bombeiros militar
+7611;Trabalhadores da classificação de fibras têxteis e lavagem de lã;0,506;9,17;1344;0,0206;0,0606;7;Grupo CBO7;1.344 Trabalhadores da classificação de fibras têxteis e lavagem de lã
+6324;Extrativistas florestais de espécies produtoras de alimentos silvestres;0,516;8,95;1279;0,0456;0,0724;6;Grupo CBO6;1.279 Extrativistas florestais de espécies produtoras de alimentos silvestres
+6234;Trabalhadores na criação de insetos e animais úteis;0,699;9,61;1274;0,0398;0,0611;6;Grupo CBO6;1.274 Trabalhadores na criação de insetos e animais úteis
+7502;Supervisores de vidraria, cerâmica e afins;0,087;9,81;1263;0,0013;0,0519;7;Grupo CBO7;1.263 Supervisores de vidraria, cerâmica e afins
+6125;Produtores agrícolas na fruticultura;0,614;8,88;1250;0,0352;0,0619;6;Grupo CBO6;1.250 Produtores agrícolas na fruticultura
+3762;Artistas de circo (circenses);0,442;9,75;1234;0,0210;0,0596;3;Grupo CBO3;1.234 Artistas de circo (circenses)
+3743;Técnicos em operação de aparelhos de projeção;0,402;10,07;1218;0,0132;0,0535;3;Grupo CBO3;1.218 Técnicos em operação de aparelhos de projeção
+2513;Profissionais em pesquisa e análise geográfica;0,041;8,88;1215;0,0003;0,0518;2;Grupo CBO2;1.215 Profissionais em pesquisa e análise geográfica
+2148;Engenheiros agrimensores e engenheiros cartógrafos;0,032;10,51;1213;0,0003;0,0533;2;Grupo CBO2;1.213 Engenheiros agrimensores e engenheiros cartógrafos
+7813;Operadores de veículos subaquáticos controlados remotamente;0,035;9,40;1187;0,0003;0,0547;7;Grupo CBO7;1.187 Operadores de veículos subaquáticos controlados remotamente
+6222;Trabalhadores agrícolas na cultura de plantas fibrosas;0,513;8,22;1184;0,0261;0,0603;6;Grupo CBO6;1.184 Trabalhadores agrícolas na cultura de plantas fibrosas
+7162;Telhadores (revestimentos rígidos);0,510;8,83;1166;0,0208;0,0536;7;Grupo CBO7;1.166 Telhadores (revestimentos rígidos)
+1225;Diretores de serviços de turismo, de alojamento e de alimentação;0,231;9,22;1159;0,0018;0,0553;1;Grupo CBO1;1.159 Diretores de serviços de turismo, de alojamento e de alimentação
+2131;Físicos;0,041;9,53;1157;0,0002;0,0533;2;Grupo CBO2;1.157 Físicos
+2625;Atores;0,081;9,68;1154;0,0005;0,0554;2;Grupo CBO2;1.154 Atores
+7246;Trançadores e laceiros de cabos de aço;0,451;10,21;1132;0,0175;0,0533;7;Grupo CBO7;1.132 Trançadores e laceiros de cabos de aço
+3183;Desenhistas técnicos em eletricidade, eletrônica, eletromecânica, calefação, ventilação e refrigeração;0,341;9,21;1110;0,0105;0,0563;3;Grupo CBO3;1.110 Desenhistas técnicos em eletricidade, eletrônica, eletromecânica, calefação, ventilação e refrigeração
+5167;Astrólogos e numerólogos;0,006;8,00;1106;0,0001;0,0573;5;Grupo CBO5;1.106 Astrólogos e numerólogos
+7401;Supervisores da mecânica de precisão e instrumentos musicais;0,124;9,32;1101;0,0019;0,0531;7;Grupo CBO7;1.101 Supervisores da mecânica de precisão e instrumentos musicais
+9142;Mecânicos de manutenção de motores e equipamentos navais;0,213;9,02;1094;0,0042;0,0549;9;Grupo CBO9;1.094 Mecânicos de manutenção de motores e equipamentos navais
+3161;Técnicos em geologia;0,132;9,81;1055;0,0016;0,0530;3;Grupo CBO3;1.055 Técnicos em geologia
+3281;Técnicos em necrópsia e taxidermistas;0,079;10,04;1027;0,0014;0,0511;3;Grupo CBO3;1.027 Técnicos em necrópsia e taxidermistas
+1144;Dirigentes e administradores de organizações da sociedade civil sem fins lucrativos;0,222;10,75;1009;0,0030;0,0556;1;Grupo CBO1;1.009 Dirigentes e administradores de organizações da sociedade civil sem fins lucrativos
+6228;Trabalhadores agrícolas da cultura de especiarias e de plantas aromáticas e medicinais;0,531;8,48;999;0,0383;0,0618;6;Grupo CBO6;999 Trabalhadores agrícolas da cultura de especiarias e de plantas aromáticas e medicinais
+3191;Técnicos do vestuário;0,303;10,32;927;0,0095;0,0527;3;Grupo CBO3;927 Técnicos do vestuário
+6325;Extrativistas florestais de espécies produtoras de substâncias aromáticas, medicinais e tóxicas;0,588;9,02;919;0,0366;0,0603;6;Grupo CBO6;919 Extrativistas florestais de espécies produtoras de substâncias aromáticas, medicinais e tóxicas
+3113;Técnicos em materiais, produtos cerâmicos e vidros;0,228;9,94;859;0,0044;0,0536;3;Grupo CBO3;859 Técnicos em materiais, produtos cerâmicos e vidros
+7772;Carpinteiros de carrocerias e carretas;0,599;10,06;841;0,0277;0,0534;7;Grupo CBO7;841 Carpinteiros de carrocerias e carretas
+3524;Profissionais de direitos autorais e de avaliacão de produtos dos meios de comunicação;0,438;10,27;832;0,0145;0,0608;3;Grupo CBO3;832 Profissionais de direitos autorais e de avaliacão de produtos dos meios de comunicação
+3201;Técnicos em biologia;0,200;10,25;825;0,0043;0,0548;3;Grupo CBO3;825 Técnicos em biologia
+3253;Técnicos de apoio à biotecnologia;0,207;9,91;815;0,0044;0,0570;3;Grupo CBO3;815 Técnicos de apoio à biotecnologia
+2629;Designer de interiores de nível superior;0,336;9,07;774;0,0097;0,0551;2;Grupo CBO2;774 Designer de interiores de nível superior
+3112;Técnicos de produção de indústrias químicas, petroquímicas, refino de petróleo, gás e afins;0,111;10,20;774;0,0013;0,0533;3;Grupo CBO3;774 Técnicos de produção de indústrias químicas, petroquímicas, refino de petróleo, gás e afins
+6123;Produtores agrícolas na olericultura;0,511;9,72;711;0,0322;0,0614;6;Grupo CBO6;711 Produtores agrícolas na olericultura
+2222;Engenheiros de alimentos e afins;0,135;9,36;706;0,0017;0,0530;2;Grupo CBO2;706 Engenheiros de alimentos e afins
+7421;Confeccionadores de instrumentos musicais;0,591;10,07;685;0,0242;0,0548;7;Grupo CBO7;685 Confeccionadores de instrumentos musicais
+6121;Produtores agrícolas na cultura de gramíneas;0,601;9,07;677;0,0321;0,0588;6;Grupo CBO6;677 Produtores agrícolas na cultura de gramíneas
+1221;Diretores de produção e operações em empresa agropecuária, pesqueira , aqüícola e florestal;0,199;9,70;658;0,0009;0,0563;1;Grupo CBO1;658 Diretores de produção e operações em empresa agropecuária, pesqueira , aqüícola e florestal
+6130;Produtores em pecuária polivalente;0,570;9,67;653;0,0328;0,0614;6;Grupo CBO6;653 Produtores em pecuária polivalente
+3231;Técnicos em pecuária;0,224;10,60;644;0,0052;0,0584;3;Grupo CBO3;644 Técnicos em pecuária
+6310;Pescadores polivalentes;0,588;8,92;633;0,0319;0,0583;6;Grupo CBO6;633 Pescadores polivalentes
+6132;Produtores em pecuária de animais de médio porte;0,517;9,44;592;0,0238;0,0566;6;Grupo CBO6;592 Produtores em pecuária de animais de médio porte
+2429;Profissionais da inteligência;0,019;8,27;591;0,0001;0,0479;2;Grupo CBO2;591 Profissionais da inteligência
+6314;Trabalhadores de apoio à pesca;0,634;9,43;558;0,0348;0,0598;6;Grupo CBO6;558 Trabalhadores de apoio à pesca
+3772;Árbitros desportivos;0,328;9,46;548;0,0093;0,0575;3;Grupo CBO3;548 Árbitros desportivos
+3192;Técnicos do mobiliário e afins;0,303;9,30;532;0,0078;0,0521;3;Grupo CBO3;532 Técnicos do mobiliário e afins
+7771;Carpinteiros navais;0,308;8,69;510;0,0082;0,0534;7;Grupo CBO7;510 Carpinteiros navais
+3712;Técnicos em museologia e afins;0,185;10,08;466;0,0036;0,0525;3;Grupo CBO3;466 Técnicos em museologia e afins
+8422;Charuteiros;0,491;9,76;464;0,0314;0,0599;8;Grupo CBO8;464 Charuteiros
+3213;Técnicos em aqüicultura;0,480;10,30;440;0,0172;0,0584;3;Grupo CBO3;440 Técnicos em aqüicultura
+6124;Produtores agrícolas no cultivo de flores e plantas ornamentais;0,627;10,02;437;0,0315;0,0605;6;Grupo CBO6;437 Produtores agrícolas no cultivo de flores e plantas ornamentais
+3761;Dançarinos tradicionais e populares;0,289;9,19;395;0,0158;0,0572;3;Grupo CBO3;395 Dançarinos tradicionais e populares
+1143;Dirigentes e administradores de entidades religiosas;0,227;10,67;348;0,0033;0,0571;1;Grupo CBO1;348 Dirigentes e administradores de entidades religiosas
+3764;Modelos;0,341;7,55;340;0,0130;0,0569;3;Grupo CBO3;340 Modelos
+2133;Profissionais das ciências atmosféricas e espaciais e de astronomia;0,000;11,58;337;0,0000;0,0000;2;Grupo CBO2;337 Profissionais das ciências atmosféricas e espaciais e de astronomia
+6134;Produtores de animais e insetos úteis;0,549;9,91;306;0,0277;0,0617;6;Grupo CBO6;306 Produtores de animais e insetos úteis
+3012;Técnicos de apoio à bioengenharia;0,107;10,03;300;0,0015;0,0544;3;Grupo CBO3;300 Técnicos de apoio à bioengenharia
+3519;Técnicos da inteligência;0,327;11,28;248;0,0049;0,0465;3;Grupo CBO3;248 Técnicos da inteligência
+7501;Supervisores de joalheria e afins;0,343;10,42;230;0,0089;0,0535;7;Grupo CBO7;230 Supervisores de joalheria e afins
+7602;Supervisores na indústria do curtimento;0,135;10,13;229;0,0023;0,0491;7;Grupo CBO7;229 Supervisores na indústria do curtimento
+9152;Restauradores de instrumentos musicais;0,526;9,42;215;0,0242;0,0579;9;Grupo CBO9;215 Restauradores de instrumentos musicais
+1141;Dirigentes de partidos políticos;0,240;10,21;196;0,0047;0,0595;1;Grupo CBO1;196 Dirigentes de partidos políticos
+1130;Dirigentes de povos indígenas, de quilombolas e caiçaras;0,393;10,85;191;0,0097;0,0549;1;Grupo CBO1;191 Dirigentes de povos indígenas, de quilombolas e caiçaras
+2542;Auditores fiscais da previdência social;0,232;11,37;177;0,0020;0,0682;2;Grupo CBO2;177 Auditores fiscais da previdência social
+6311;Pescadores profissionais artesanais de água doce;0,549;8,88;142;0,0277;0,0595;6;Grupo CBO6;142 Pescadores profissionais artesanais de água doce
+6126;Produtores agrícolas na cultura de plantas estimulantes;0,425;9,19;134;0,0289;0,0651;6;Grupo CBO6;134 Produtores agrícolas na cultura de plantas estimulantes
+9154;Reparadores de equipamentos fotográficos;0,586;10,46;116;0,0238;0,0548;9;Grupo CBO9;116 Reparadores de equipamentos fotográficos
+5168;Esotéricos e paranormais;0,262;10,30;103;0,0113;0,0650;5;Grupo CBO5;103 Esotéricos e paranormais
+6127;Produtores agrícolas na cultura de plantas oleaginosas;0,559;9,61;102;0,0261;0,0578;6;Grupo CBO6;102 Produtores agrícolas na cultura de plantas oleaginosas
+2263;Profissionais das terapias criativas,equoterápicas e naturológicas;0,153;9,73;98;0,0031;0,0520;2;Grupo CBO2;98 Profissionais das terapias criativas,equoterápicas e naturológicas
+5115;Condutores de turismo;0,643;10,07;42;0,0419;0,0618;5;Grupo CBO5;42 Condutores de turismo
+6122;Produtores agrícolas na cultura de plantas fibrosas;0,425;11,41;40;0,0192;0,0702;6;Grupo CBO6;40 Produtores agrícolas na cultura de plantas fibrosas
+2514;Filósofos;0,105;8,75;38;0,0012;0,0550;2;Grupo CBO2;38 Filósofos
+6128;Produtores de especiarias e de plantas aromáticas e medicinais;0,586;8,53;29;0,0184;0,0626;6;Grupo CBO6;29 Produtores de especiarias e de plantas aromáticas e medicinais
+5198;Profissionais do sexo;0,625;11,00;8;0,0528;0,0687;5;Grupo CBO5;8 Profissionais do sexo
+2261;Osteopatas e quiropraxistas;0,000;8,80;6;0,0000;0,0000;2;Grupo CBO2;6 Osteopatas e quiropraxistas

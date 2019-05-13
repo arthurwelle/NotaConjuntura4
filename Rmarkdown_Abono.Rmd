@@ -1,0 +1,130 @@
+---
+title: "Nota do Cecon Nº4 - Reforma da Previdência e o Abono nas Ocupações"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+# Autor: Arthur Welle
+# E-mail: arthurwelle@gmail.com
+```
+
+  O gráfico a seguir mostra como as diferentes ocupações são afetadas pela proposta de reforma da previdência em relação ao abono salarial. O tamanho dos círculos representa a quantidade de pessoas nestas ocupações e as cores indicam o grande grupo ocupacional. O gráfico mostra somente as 200 ocupações com maior número de ocupados, a lista completa vem logo abaixo do gráfico.
+
+```{r dados, include=TRUE, message=FALSE, warning=FALSE, eval=TRUE, echo=FALSE}
+#gráfico de bolhas
+library(plotly)
+library(DT)
+
+#lê dados
+data <- read.csv2(file =  "./Tabela_Bolhas.csv", header = TRUE)
+
+#separa em cores
+data$DesGrupo <- as.factor(data$DesGrupo)
+
+#retira dois outlier com valor zero para o gráfico (se precisar)
+#data<-data[which(data$CBO!=2261),]
+#data<-data[which(data$CBO!=2133),]
+
+#se quiser diminuir o tamanho da amostra para as 200 maiores ocupações use este
+data2<-data[1:200,]
+
+```
+
+```{r grafico2, include=TRUE, message=FALSE, warning=FALSE, eval=TRUE, echo=FALSE}
+#gráfico
+p2 <- plotly::plot_ly(data2, 
+             x = ~ (share*100), 
+             y = ~ (Abono_sobre_1e2SM *100), 
+             text = ~paste(
+                           '', Descricao,
+                           '<br>% Afetados:', (share *100), "%",
+                           '<br>Perda de renda:', (Abono_sobre_1e2SM *100), "%",
+                           '<br>CBO:', CBO,
+                           '<br>Quantidade:', N
+                           ), 
+             type = 'scatter', 
+             mode = 'markers', 
+             size = ~N,
+             color = ~DesGrupo, 
+             colors = 'Paired',
+             sizes = c(5, 75),
+             marker = list(opacity = 0.75, 
+                           sizemode = 'diameter',
+                           line = list(width = 1,
+                                       color = '#000000')) )%>%
+  layout(
+    images = list(
+      list(source = "https://raw.githubusercontent.com/arthurwelle/Cecon/master/logo_vazio%20CECON.png",
+           xref = "paper",
+           yref = "paper",
+           x= 0.05,
+           y= 1,
+           sizex = 0.25,
+           sizey = 0.25,
+           opacity = 0.4
+      )),
+    showlegend = FALSE,
+    xaxis = list(title = 'Trabalhadores afetados pela reforma (% do total)'),
+    yaxis = list(title = 'Perda de renda anual com a mudança (trabalhadores afetados)(%)')
+    )%>% config(displayModeBar = F)
+      
+
+```
+
+### **Proporção dos trabalhadores afetados pelas mudanças no abono e perda média de renda anual dos afetados, por ocupação**
+
+```{r grafico2b, fig.height = 6, fig.width = 10, include=TRUE, message=FALSE, warning=FALSE, eval=TRUE, echo=FALSE}
+#chama o gráfico
+p2
+
+```
+
+<font size="-2">Fonte: Elaboração própria com base na RAIS 2017.</font> 
+
+### **Tabela completa com todas as ocupações**
+
+  Na tabela a seguir a coluna "perda de renda", se refere, como no gráfico acima, à perda média de renda anual dos afetados pela reforma.
+
+```{r tabela, include=TRUE, message=FALSE, warning=FALSE, eval=TRUE, echo=FALSE}
+#criar um dataframe só com os dados para mostrar na tabela
+tabela<- data[,c(1:3,7,5)]
+
+#ordena a tabela
+tabela <- tabela[order(tabela$CBO),] 
+
+#coloca porcentagem
+tabela[,3]<-paste(tabela[,3]*100,"%")
+tabela[,4]<-paste(tabela[,4]*100,"%")
+
+#coloca novos nomes nas colunas
+names(tabela)[1] <- "Código CBO"
+names(tabela)[2] <- "Ocupação"
+names(tabela)[3] <- "Proporção afetados"
+names(tabela)[4] <- "Perda de renda"
+names(tabela)[5] <- "Quantidade"
+
+#cria a tabela html
+DT::datatable(tabela, 
+          rownames = FALSE,
+          options = list(
+                         language = list(url = '//cdn.datatables.net/plug-ins/1.10.11/i18n/Portuguese.json'),
+                         pageLength = 25
+                        )
+)
+
+
+```
+
+### **Metodologia**
+
+  Usando os dados da RAIS 2017 agregamos, para cada trabalhador, a renda média mensal de todos os vínculos no ano, bem como o número de meses trabalhados. Em seguida selecionamos aqueles que tinham mais de cinco anos de cadastro no PIS. Com isso podemos calcular se na média dos meses trabalhados um dado trabalhador se encaixa ou não nos requisitos do abono salarial (receber em média menos de dois salários mínimos e ter mais de cinco anos de registro). Para os casos onde o trabalhador tinha mais de um vínculo de ocupações distintas foram usadas as ocupações cujo código CBO2.0 era o menor. 
+  
+  Com o valor do abono podemos calcular também quanto este representa no total das rendas anuais de cada trabalhador. Nestes cálculos não consideramos o 13º salário, nem os impostos e deduções incidentes sobre o valor do salário.
+  
+  Elaborado pelo <a href="http://www.eco.unicamp.br/cecon/">Centro de Estudos de Conjuntura e Política Econômica</a> do <a href="http://www.eco.unicamp.br/">Instituto de Economia</a> da Unicamp. 
+
+
+
+

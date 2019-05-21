@@ -91,8 +91,11 @@ p2
 #criar um dataframe só com os dados para mostrar na tabela
 tabela<- data[,c(1:3,7,5)]
 
+#cria coluna afetados
+tabela$Afetados<-format(round(as.numeric(tabela$share) * as.numeric(tabela$N), 0), nsmall = 0)  
+
 #ordena a tabela
-tabela <- tabela[order(tabela$CBO),] 
+tabela <- tabela[order(tabela$Afetados, decreasing = TRUE),] 
 
 #coloca porcentagem
 tabela[,3]<-paste(tabela[,3]*100,"%")
@@ -103,7 +106,8 @@ names(tabela)[1] <- "Código CBO"
 names(tabela)[2] <- "Ocupação"
 names(tabela)[3] <- "Proporção afetados"
 names(tabela)[4] <- "Perda de renda"
-names(tabela)[5] <- "Quantidade"
+names(tabela)[5] <- "Quantidade Total"
+names(tabela)[6] <- "Quantidade Afetados"
 
 #cria a tabela html
 DT::datatable(tabela, 
